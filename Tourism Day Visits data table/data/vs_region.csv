@@ -1,0 +1,34 @@
+local_authority_name,vs_region_name
+Fife,Fife
+Perth and Kinross,Perthshire
+Angus,Dundee & Angus
+Dundee City,Dundee & Angus
+LA_Name,VS_Region_Name
+East Ayrshire,Ayrshire & Arran
+North Ayrshire,Ayrshire & Arran
+South Ayrshire,Ayrshire & Arran
+Scottish Borders,Scottish Borders
+Argyll and Bute,Argyll & the Isles
+Dumfries and Galloway,Dumfries & Galloway
+Highland,Highlands & Islands
+Na h-Eileanan Siar,Highlands & Islands
+Orkney Islands,Highlands & Islands
+Shetland Islands,Highlands & Islands
+East Dunbartonshire,Glasgow & Clyde Valley
+East Renfrewshire,Glasgow & Clyde Valley
+Glasgow City,Glasgow & Clyde Valley
+Inverclyde,Glasgow & Clyde Valley
+North Lanarkshire,Glasgow & Clyde Valley
+Renfrewshire,Glasgow & Clyde Valley
+South Lanarkshire,Glasgow & Clyde Valley
+West Dunbartonshire,Glasgow & Clyde Valley
+Clackmannanshire,Stirling & Forth Valley
+Falkirk,Stirling & Forth Valley
+Stirling,Stirling & Forth Valley
+City of Edinburgh,Edinburgh & the Lothians
+East Lothian,Edinburgh & the Lothians
+Midlothian,Edinburgh & the Lothians
+West Lothian,Edinburgh & the Lothians
+Aberdeen City,"Aberdeen, Aberdeenshire & Moray Speyside"
+Aberdeenshire,"Aberdeen, Aberdeenshire & Moray Speyside"
+Moray,"Aberdeen, Aberdeenshire & Moray Speyside"
