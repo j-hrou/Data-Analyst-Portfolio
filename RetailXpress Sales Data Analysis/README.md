@@ -31,7 +31,7 @@ The project aimed to answer the following business questions:
 ## Tools Used
 
 * **Data Cleaning and Preparation:** OpenRefine
-* **Data Analysis and Visualization:** PowerBI (DAX)
+* **Data Analysis and Visualization:** PowerBI (DAX and Power Query)
 * **Other Tools:** PowerPoint for presentation slides, Adobe Acrobat for PDF accessibility checks 
 
 ## Skills 
