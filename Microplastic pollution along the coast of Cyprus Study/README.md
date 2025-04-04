@@ -28,7 +28,7 @@ This research aimed to answer the following questions:
 
 ## Project Structure
 
-* **`data/`**: Contains the raw datasets collected during the study in CSV format. Includes details on microplastic counts, weights, types per sample, and sample locations.
+* **`data/`**: Contains the raw datasets collected during the study in Excel and CSV format. Includes details on microplastic counts, weights, types per sample, and sample locations.
 * **`code/`**: Contains the R scripts used for all statistical analyses performed and visualisations produced in the dissertation.
 * **`dissertation/`**: Contains the full dissertation document (PDF) for context and detailed methodology/results.
 * **`README.md`**: This document.
@@ -46,7 +46,7 @@ This research aimed to answer the following questions:
 * Laboratory Procedures & Data Recording
 * Statistical Analysis in R (Non-parametric tests)
 * Data Visualisation in R (ggplot2)
-* Data Management & Manipulation (CSV)
+* Data Management & Manipulation (Excel)
 * Scientific Literature Review & Synthesis
 * Environmental Policy Analysis
 * Scientific Writing & Communication (Dissertation format)
