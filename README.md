@@ -7,7 +7,7 @@ This portfolio highlights my expertise as a Data Insights Analyst. It showcases 
 # Projects
 
 * **Microplastic pollution along the coast of Cyprus Study:**
-    * [[[Link to Microplastic Pollution Study/folder]](https://github.com/j-hrou/Data-Analyst-Portfolio/tree/main/RetailXpress%20Sales%20Data%20Analysis)](https://github.com/j-hrou/Data-Analyst-Portfolio/tree/main/Microplastic%20pollution%20along%20the%20coast%20of%20Cyprus%20Study)
+    * [[[Link to Microplastic Pollution Study/folder](https://github.com/j-hrou/Data-Analyst-Portfolio/tree/main/Microplastic%20pollution%20along%20the%20coast%20of%20Cyprus%20Study)
     * Technical Skills: R, Excel
    
 * **RetailXpress Sales Data Analysis:**
