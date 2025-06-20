@@ -21,3 +21,7 @@ This portfolio highlights my expertise as a Data Insights Analyst. It showcases 
 * **Scottish Tourism Day Visits Data Extraction:**
     * [Link to Scottish Tourism Day Visits project file/folder](https://github.com/j-hrou/Data-Analyst-Portfolio/tree/main/Scottish%20Tourism%20Day%20Visits%20Data%20Extraction)
     * Technical Skills: SQL (Google BigQuery)
+
+* **Edinburgh Airport Revenue Analysis:**
+    * [Link to Edunburgh Airport Revenue Analysis project file/folder]([https://github.com/j-hrou/Data-Analyst-Portfolio/tree/main/Scottish%20Tourism%20Day%20Visits%20Data%20Extraction](https://github.com/j-hrou/Data-Analyst-Portfolio/tree/main/Edinburgh%20Airport%20Revenue%20Analysis))
+    * Technical Skills: Excel
