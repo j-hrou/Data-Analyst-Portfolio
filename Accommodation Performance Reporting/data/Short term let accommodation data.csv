@@ -1,0 +1,1001 @@
+reporting_date,year,month_num,listing_id,listing_host_id,local_authority,national_park,kd_listing_type_detail,accommodation_type,space_type,beds,bedrooms,max_guests_num,max_guests,min_stay,checkins,booked_nights,available_nights,blocked_nights,revenue_gpd,adr_gpd
+2024-12-01,2024,12,vrbo_10069778ha,,Argyll and Bute,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,4 - 6 nights,0,0,21,10,0.0,0.0
+2025-06-01,2025,6,vrbo_10078174ha,,Stirling,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,1,5,16,14,3398.94,679.79
+2024-10-01,2024,10,vrbo_10078174ha,,Stirling,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,2,6,31,0,4157.91,692.99
+2024-02-01,2024,2,vrbo_10078174ha,,Stirling,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,1,7,14,15,5396.13,770.88
+2024-04-01,2024,4,vrbo_10078174ha,,Stirling,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,0,0,30,0,0.0,0.0
+2024-05-01,2024,5,vrbo_10078174ha,,Stirling,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,4,13,31,0,8755.11,673.47
+2025-01-01,2025,1,vrbo_10085305ha,,West Lothian,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,3 nights,0,0,0,31,0.0,0.0
+2023-11-01,2023,11,vrbo_10085305ha,,West Lothian,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,3 nights,0,0,0,30,0.0,0.0
+2024-04-01,2024,4,vrbo_10230289ha,,Moray,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,4 - 6 nights,1,15,17,13,1678.39,111.89
+2024-07-01,2024,7,vrbo_1028634ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,7 - 13 nights,2,17,31,0,2497.08,146.89
+2024-05-01,2024,5,vrbo_10321194ha,,West Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,vrbo_10321194ha,,West Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-09-01,2024,9,vrbo_10365237ha,,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-11-01,2024,11,vrbo_10365237ha,,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,30,0.0,0.0
+2023-12-01,2023,12,vrbo_10365237ha,,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-03-01,2025,3,vrbo_10365237ha,,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-05-01,2025,5,vrbo_10376772ha,,Argyll and Bute,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,6,0.0,0.0
+2024-08-01,2024,8,vrbo_10428086ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,2,15,15,16,19037.12,1269.14
+2024-06-01,2024,6,vrbo_10428086ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,3,15,23,7,22241.24,1482.75
+2025-04-01,2025,4,vrbo_10428086ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,1,7,23,7,9835.5,1405.07
+2024-03-01,2024,3,vrbo_10428086ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,2,7,25,6,10026.74,1432.39
+2025-03-01,2025,3,vrbo_10428086ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,0,0,24,7,0.0,0.0
+2024-11-01,2024,11,vrbo_10435451ha,,Fife,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,11,0.0,0.0
+2024-07-01,2024,7,vrbo_10480085ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,4 - 6 nights,3,18,31,0,2069.5,114.97
+2024-06-01,2024,6,vrbo_1056183ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,2,12,14,16,1321.79,110.15
+2024-03-01,2024,3,vrbo_1056183ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,1,2,24,7,212.33,106.17
+2024-12-01,2024,12,vrbo_10588807ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,7 - 13 nights,1,7,28,3,3171.5,453.07
+2025-05-01,2025,5,vrbo_10610387ha,,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,4,13,24,7,2057.46,158.27
+2025-03-01,2025,3,vrbo_10610387ha,,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,2,9,30,1,1354.66,150.52
+2024-10-01,2024,10,vrbo_10610387ha,,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,1,3,31,0,478.34,159.45
+2025-03-01,2025,3,vrbo_10615872ha,,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,4 - 6 nights,2,8,8,23,3039.27,379.91
+2025-04-01,2025,4,vrbo_10615872ha,,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,4 - 6 nights,2,14,14,16,5844.19,417.44
+2025-03-01,2025,3,vrbo_10699449ha,,Renfrewshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-12-01,2024,12,vrbo_10699449ha,,Renfrewshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,2 nights,6,16,26,5,2247.17,140.45
+2023-11-01,2023,11,vrbo_10700729ha,1419076,South Lanarkshire,None,cabin,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,29,1,0.0,0.0
+2024-04-01,2024,4,vrbo_10700729ha,1419076,South Lanarkshire,None,cabin,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,29,1,0.0,0.0
+2024-03-01,2024,3,vrbo_10700729ha,1419076,South Lanarkshire,None,cabin,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,29,2,0.0,0.0
+2024-08-01,2024,8,vrbo_10700729ha,1419076,South Lanarkshire,None,cabin,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,28,3,0.0,0.0
+2024-06-01,2024,6,vrbo_10731624ha,,Dumfries and Galloway,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,5,8,25,5,1091.27,136.41
+2023-12-01,2023,12,vrbo_10731624ha,,Dumfries and Galloway,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,2,17,6,153.95,76.97
+2024-05-01,2024,5,vrbo_10731624ha,,Dumfries and Galloway,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,7,13,18,13,1892.51,145.58
+2024-04-01,2024,4,vrbo_10731624ha,,Dumfries and Galloway,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,3,19,11,397.22,132.41
+2024-10-01,2024,10,vrbo_10731624ha,,Dumfries and Galloway,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,11,17,25,6,2557.3,150.43
+2025-04-01,2025,4,vrbo_10731624ha,,Dumfries and Galloway,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,10,24,27,3,3133.04,130.54
+2024-09-01,2024,9,vrbo_10776774ha,,City of Edinburgh,None,Hotel,Hotel,entire,11 - 20 beds,11+ bedrooms,0,1 guest,2 nights,0,0,0,30,0.0,0.0
+2023-11-01,2023,11,vrbo_10776774ha,,City of Edinburgh,None,Hotel,Hotel,entire,11 - 20 beds,11+ bedrooms,0,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-10-01,2024,10,vrbo_10776774ha,,City of Edinburgh,None,Hotel,Hotel,entire,11 - 20 beds,11+ bedrooms,0,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-04-01,2025,4,vrbo_10799105ha,,Perth and Kinross,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,2,5,27,3,322.9,64.58
+2024-09-01,2024,9,vrbo_10799106ha,,Perth and Kinross,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,11,15,28,2,1324.81,88.32
+2024-03-01,2024,3,vrbo_10799106ha,,Perth and Kinross,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,2,4,31,0,220.2,55.05
+2023-11-01,2023,11,vrbo_10799106ha,,Perth and Kinross,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,2,3,29,1,292.84,97.61
+2024-11-01,2024,11,vrbo_10799111ha,,Perth and Kinross,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,6,9,30,0,857.25,95.25
+2025-06-01,2025,6,vrbo_10799111ha,,Perth and Kinross,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,4,11,25,5,1012.09,92.01
+2024-04-01,2024,4,vrbo_10799111ha,,Perth and Kinross,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,4,14,30,0,967.07,69.08
+2024-12-01,2024,12,vrbo_10799111ha,,Perth and Kinross,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,3,7,26,5,502.89,71.84
+2024-08-01,2024,8,vrbo_10799233ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,18,23,26,5,1011.37,43.97
+2023-12-01,2023,12,vrbo_10799233ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,4,7,27,4,294.0,42.0
+2024-06-01,2024,6,vrbo_10799233ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,7,15,17,13,627.85,41.86
+2025-04-01,2025,4,vrbo_10799237ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,9,21,9,434.09,48.23
+2024-12-01,2024,12,vrbo_10799237ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,4,10,27,4,502.89,50.29
+2023-12-01,2023,12,vrbo_10799237ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,8,28,3,316.13,39.52
+2025-05-01,2025,5,vrbo_10799237ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,7,16,25,6,770.61,48.16
+2025-07-01,2025,7,vrbo_10805114ha,,East Ayrshire,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,10,29,29,2,1062.85,36.65
+2024-09-01,2024,9,vrbo_10805115ha,,East Ayrshire,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,7,22,22,8,416.13,18.92
+2025-06-01,2025,6,vrbo_10805302ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-12-01,2024,12,vrbo_10805302ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,1,1,30,77.09,77.09
+2023-11-01,2023,11,vrbo_10805302ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,4,6,12,18,420.76,70.13
+2024-07-01,2024,7,vrbo_10805302ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-11-01,2024,11,vrbo_10805302ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,6,11,19,11,860.78,78.25
+2025-02-01,2025,2,vrbo_10805302ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,15,18,10,1320.05,88.0
+2024-02-01,2024,2,vrbo_10805306ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,7,17,29,0,1144.83,67.34
+2025-05-01,2025,5,vrbo_10805306ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,1,30,0.0,0.0
+2025-03-01,2025,3,vrbo_10805306ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,2,4,15,16,329.18,82.29
+2025-05-01,2025,5,vrbo_10805309ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,8,23,24,7,2618.34,113.84
+2024-06-01,2024,6,vrbo_10805309ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,26,4,0.0,0.0
+2025-01-01,2025,1,vrbo_10805309ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2023-11-01,2023,11,vrbo_10805309ha,,Stirling,Loch Lomond and The Trossachs,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,3,6,15,15,587.29,97.88
+2024-12-01,2024,12,vrbo_10806248ha,,West Lothian,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-08-01,2024,8,vrbo_10806248ha,,West Lothian,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,4,5,28,3,966.52,193.3
+2025-06-01,2025,6,vrbo_10806248ha,,West Lothian,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,12,24,24,6,5305.17,221.05
+2024-10-01,2024,10,vrbo_10806248ha,,West Lothian,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,7,28,31,0,4275.2,152.69
+2024-12-01,2024,12,vrbo_10806268ha,,West Lothian,None,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-04-01,2024,4,vrbo_10808836ha,,Dumfries and Galloway,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-05-01,2025,5,vrbo_10808836ha,,Dumfries and Galloway,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-04-01,2025,4,vrbo_10808837ha,,Dumfries and Galloway,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-01-01,2024,1,vrbo_10808837ha,,Dumfries and Galloway,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,1,18,18,13,2125.82,118.1
+2024-09-01,2024,9,vrbo_10808837ha,,Dumfries and Galloway,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-05-01,2025,5,vrbo_10808837ha,,Dumfries and Galloway,None,Hotel,Hotel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,vrbo_10809824ha,1419076,Renfrewshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,4,13,23,7,2813.53,216.43
+2025-05-01,2025,5,vrbo_10809824ha,1419076,Renfrewshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,6,14,31,0,2947.03,210.5
+2024-11-01,2024,11,vrbo_10809824ha,1419076,Renfrewshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,3,8,21,7,1869.8,233.73
+2025-03-01,2025,3,vrbo_10821883ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,0,0,0,31,0.0,0.0
+2025-01-01,2025,1,vrbo_10821883ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,0,0,0,31,0.0,0.0
+2024-05-01,2024,5,vrbo_10821883ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,0,0,8,23,0.0,0.0
+2024-04-01,2024,4,vrbo_10831849ha,,Aberdeenshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-07-01,2024,7,vrbo_10831849ha,,Aberdeenshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,31,0.0,0.0
+2023-11-01,2023,11,vrbo_10831849ha,,Aberdeenshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,2,3,3,27,317.78,105.93
+2023-12-01,2023,12,vrbo_10831849ha,,Aberdeenshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-01-01,2025,1,vrbo_10858141ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,14,27,4,5450.28,389.31
+2024-05-01,2024,5,vrbo_10858141ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,30,1,0.0,0.0
+2023-12-01,2023,12,vrbo_10858143ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,8,23,0.0,0.0
+2025-04-01,2025,4,vrbo_10858143ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,28,2,0.0,0.0
+2025-01-01,2025,1,vrbo_10858143ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,7,26,5,4378.04,625.43
+2024-06-01,2024,6,vrbo_10858148ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-11-01,2024,11,vrbo_10858148ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-09-01,2024,9,vrbo_10858148ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-05-01,2025,5,vrbo_10858148ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,2,14,19,12,6267.1,447.65
+2024-01-01,2024,1,vrbo_10858148ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,2,29,0.0,0.0
+2023-12-01,2023,12,vrbo_10858149ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,5,26,0.0,0.0
+2024-04-01,2024,4,vrbo_10858149ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-11-01,2024,11,vrbo_10858155ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-04-01,2024,4,vrbo_10858155ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-02-01,2024,2,vrbo_10858155ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,29,0.0,0.0
+2025-02-01,2025,2,vrbo_10863568ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,3,25,3,786.77,262.26
+2024-03-01,2024,3,vrbo_10863568ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-11-01,2024,11,vrbo_10863568ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-08-01,2024,8,vrbo_10863568ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-05-01,2025,5,vrbo_10863568ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,8,17,25,6,6821.79,401.28
+2025-06-01,2025,6,vrbo_10863569ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,3,8,23,5,3691.58,461.45
+2025-02-01,2025,2,vrbo_10863569ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,27,1,0.0,0.0
+2024-06-01,2024,6,vrbo_10945869ha,,Highland,Cairngorms,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,3 nights,6,24,29,1,1812.75,75.53
+2025-03-01,2025,3,vrbo_10945869ha,,Highland,Cairngorms,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,3 nights,4,22,31,0,1852.84,84.22
+2025-01-01,2025,1,vrbo_10945869ha,,Highland,Cairngorms,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,3 nights,2,11,28,3,942.66,85.7
+2025-06-01,2025,6,vrbo_10946676ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,1,4,19,11,3651.04,912.76
+2024-06-01,2024,6,vrbo_10946676ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,3,8,20,10,6375.04,796.88
+2024-09-01,2024,9,vrbo_10946676ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,4,12,25,5,8806.84,733.9
+2024-02-01,2024,2,vrbo_10950928ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,2 nights,0,0,29,0,0.0,0.0
+2024-06-01,2024,6,vrbo_10950928ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,2 nights,6,16,29,1,3848.41,240.53
+2023-11-01,2023,11,vrbo_10950928ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,2 nights,1,6,30,0,1399.84,233.31
+2024-10-01,2024,10,vrbo_10950938ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,5,17,30,1,8304.33,488.49
+2024-07-01,2024,7,vrbo_10950938ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,5,23,31,0,14111.02,613.52
+2023-12-01,2023,12,vrbo_10955513ha,1419076,East Lothian,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,4,31,31,0,2181.3,70.36
+2024-07-01,2024,7,vrbo_10955565ha,,Clackmannanshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,6,20,20,11,8100.75,405.04
+2025-07-01,2025,7,vrbo_10976682ha,1419076,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,2 nights,5,26,28,3,7101.25,273.12
+2025-02-01,2025,2,vrbo_10976682ha,1419076,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,2 nights,5,12,28,0,3109.92,259.16
+2024-01-01,2024,1,vrbo_10981041ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,0,0,27,0,0.0,0.0
+2024-12-01,2024,12,vrbo_10997150ha,,Perth and Kinross,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-04-01,2024,4,vrbo_10997150ha,,Perth and Kinross,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,5,29,1,507.51,101.5
+2024-09-01,2024,9,vrbo_10997150ha,,Perth and Kinross,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,12,29,1,1619.13,134.93
+2024-11-01,2024,11,vrbo_1100119ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,0,0,23,0,0.0,0.0
+2025-03-01,2025,3,vrbo_11005759ha,,Highland,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,4 - 6 nights,8,27,31,0,3415.69,126.51
+2025-04-01,2025,4,vrbo_11005759ha,,Highland,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,4 - 6 nights,5,27,30,0,3909.07,144.78
+2024-02-01,2024,2,vrbo_11005759ha,,Highland,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,4 - 6 nights,5,24,29,0,1884.24,78.51
+2024-01-01,2024,1,vrbo_11005759ha,,Highland,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,4 - 6 nights,5,17,26,5,1194.39,70.26
+2024-12-01,2024,12,vrbo_11005759ha,,Highland,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,4 - 6 nights,2,21,23,8,2201.31,104.82
+2023-11-01,2023,11,vrbo_11009598ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,5,26,29,1,2461.79,94.68
+2024-09-01,2024,9,vrbo_11009598ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,3,23,30,0,2661.87,115.73
+2025-01-01,2025,1,vrbo_11009598ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,0,1,4,27,203.27,203.27
+2024-02-01,2024,2,vrbo_11050104ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,2 nights,0,0,29,0,0.0,0.0
+2024-11-01,2024,11,vrbo_11050603ha,,Fife,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,7 - 13 nights,0,0,0,30,0.0,0.0
+2023-12-01,2023,12,vrbo_11050603ha,,Fife,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,7 - 13 nights,0,0,0,31,0.0,0.0
+2025-07-01,2025,7,vrbo_11056928ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,0,24,0.0,0.0
+2024-05-01,2024,5,vrbo_11075985ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,2,5,31,0,2334.97,466.99
+2024-06-01,2024,6,vrbo_11075985ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,0,0,30,0,0.0,0.0
+2025-07-01,2025,7,vrbo_11075985ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,2,7,31,0,5844.95,834.99
+2023-12-01,2023,12,vrbo_11075985ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,2,5,28,3,2426.3,485.26
+2025-05-01,2025,5,vrbo_11077957ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,0,0,0,2,0.0,0.0
+2024-12-01,2024,12,vrbo_11077957ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,0,0,0,31,0.0,0.0
+2024-03-01,2024,3,vrbo_11081917ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,3 nights,5,19,31,0,2661.21,140.06
+2025-03-01,2025,3,vrbo_11081917ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,3 nights,8,26,31,0,3518.96,135.34
+2024-11-01,2024,11,vrbo_11081917ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,3 nights,5,16,22,8,2692.55,168.28
+2024-08-01,2024,8,vrbo_11081917ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,3 nights,7,22,29,2,3909.38,177.7
+2024-04-01,2024,4,vrbo_11081917ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,3 nights,7,21,27,3,2922.79,139.18
+2024-09-01,2024,9,vrbo_11081917ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,3 nights,5,21,27,0,3550.73,169.08
+2024-02-01,2024,2,vrbo_11081934ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,21,8,0.0,0.0
+2023-12-01,2023,12,vrbo_11081934ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,12,0,0.0,0.0
+2024-01-01,2024,1,vrbo_11081934ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,26,5,0.0,0.0
+2023-11-01,2023,11,vrbo_11084865ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,0,0,28,2,0.0,0.0
+2023-12-01,2023,12,vrbo_11084865ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,1,2,31,0,1104.88,552.44
+2024-06-01,2024,6,vrbo_11084865ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,0,0,30,0,0.0,0.0
+2023-11-01,2023,11,vrbo_11088293ha,,Dumfries and Galloway,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-09-01,2024,9,vrbo_11088293ha,,Dumfries and Galloway,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-08-01,2024,8,vrbo_11104856ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,5,30,30,1,9000.23,300.01
+2024-01-01,2024,1,vrbo_11104856ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,0,0,1,30,0.0,0.0
+2024-09-01,2024,9,vrbo_11104856ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,2,16,30,0,3692.21,230.76
+2025-01-01,2025,1,vrbo_11104856ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,0,0,7,24,0.0,0.0
+2024-05-01,2024,5,vrbo_11104856ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,1,1,1,30,229.54,229.54
+2024-01-01,2024,1,vrbo_11108449ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,4,12,31,0,1328.24,110.69
+2025-02-01,2025,2,vrbo_11108793ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,7,23,23,5,3270.63,142.2
+2025-06-01,2025,6,vrbo_11108793ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,5,21,21,9,2074.3,98.78
+2025-07-01,2025,7,vrbo_11108793ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,1,3,3,1,297.95,99.32
+2024-04-01,2024,4,vrbo_11108793ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,6,24,26,4,1846.23,76.93
+2023-12-01,2023,12,vrbo_11108836ha,,Argyll and Bute,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,0,4,4,0,266.91,66.73
+2025-01-01,2025,1,vrbo_11108836ha,,Argyll and Bute,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,7,29,31,0,2189.02,75.48
+2024-10-01,2024,10,vrbo_11108848ha,,Angus,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,15,30,31,0,3674.2,122.47
+2025-03-01,2025,3,vrbo_11109085ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,9,9,0,1197.51,133.06
+2025-04-01,2025,4,vrbo_11109243ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,1,2,4,4,188.08,94.04
+2023-12-01,2023,12,vrbo_11109528ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,26,3,0.0,0.0
+2025-02-01,2025,2,vrbo_11109528ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,3,5,26,2,806.7,161.34
+2024-10-01,2024,10,vrbo_11109528ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,8,20,29,2,2371.79,118.59
+2024-02-01,2024,2,vrbo_11109528ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,8,28,1,1090.16,136.27
+2025-02-01,2025,2,vrbo_11109529ha,,Falkirk,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,3,28,0,339.58,113.19
+2025-03-01,2025,3,vrbo_11109867ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,3,21,31,0,2274.03,108.29
+2025-04-01,2025,4,vrbo_11109867ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,21,9,0.0,0.0
+2024-03-01,2024,3,vrbo_11110262ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,5,17,17,0,1663.89,97.88
+2024-09-01,2024,9,vrbo_11110262ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,3,4,2,717.64,239.21
+2025-02-01,2025,2,vrbo_11110271ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,5,26,2,1414.91,282.98
+2025-01-01,2025,1,vrbo_11110538ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,1,2,31,0,199.22,99.61
+2024-01-01,2024,1,vrbo_11110564ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,6,24,28,3,1884.89,78.54
+2025-04-01,2025,4,vrbo_11110564ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,4,29,29,1,2571.78,88.68
+2025-06-01,2025,6,vrbo_11110564ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,5,20,20,10,1843.58,92.18
+2023-12-01,2023,12,vrbo_11110724ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,1,1,7,7,107.48,107.48
+2025-05-01,2025,5,vrbo_11110724ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,2,8,2,191.96,95.98
+2025-06-01,2025,6,vrbo_11117043ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,1 night,4,26,27,0,1711.29,65.82
+2025-02-01,2025,2,vrbo_11123292ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,0,7,0.0,0.0
+2024-04-01,2024,4,vrbo_11123292ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,2,0,0.0,0.0
+2023-11-01,2023,11,vrbo_11123392ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,3,13,20,5,1283.72,98.75
+2024-01-01,2024,1,vrbo_11124568ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,8,28,29,0,1981.89,70.78
+2024-12-01,2024,12,vrbo_11127942ha,1419076,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,2 nights,2,9,31,0,683.17,75.91
+2024-11-01,2024,11,vrbo_11138012ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,25,5,0.0,0.0
+2024-09-01,2024,9,vrbo_11138012ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,2,6,28,2,731.63,121.94
+2025-05-01,2025,5,vrbo_11143657ha,,Dumfries and Galloway,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,3,10,10,0,757.2,75.72
+2025-01-01,2025,1,vrbo_11143657ha,,Dumfries and Galloway,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,3,8,8,0,614.54,76.82
+2025-06-01,2025,6,vrbo_11143668ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,6,6,2,593.85,98.98
+2024-09-01,2024,9,vrbo_11143788ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,5,22,25,0,4368.62,198.57
+2024-08-01,2024,8,vrbo_11143788ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,4,22,25,0,4696.51,213.48
+2023-12-01,2023,12,vrbo_11143788ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,1,7,19,2,1026.57,146.65
+2025-01-01,2025,1,vrbo_11144026ha,,Dumfries and Galloway,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,7,7,7,2,625.2,89.31
+2024-12-01,2024,12,vrbo_11144026ha,,Dumfries and Galloway,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,3,3,3,5,188.98,62.99
+2024-12-01,2024,12,vrbo_11144053ha,,Dumfries and Galloway,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,3,3,3,5,188.98,62.99
+2024-10-01,2024,10,vrbo_11144053ha,,Dumfries and Galloway,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,2,2,2,0,190.88,95.44
+2024-12-01,2024,12,vrbo_11150274ha,,Highland,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,2,7,26,5,536.89,76.7
+2025-02-01,2025,2,vrbo_11150274ha,,Highland,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,2,21,28,0,1065.31,50.73
+2025-05-01,2025,5,vrbo_11176362ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,4,10,10,0,1158.45,115.84
+2024-12-01,2024,12,vrbo_11183927ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,5,30,1,382.61,76.52
+2025-01-01,2025,1,vrbo_11183927ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,4,31,0,313.5,78.38
+2025-07-01,2025,7,vrbo_11183927ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,7,26,30,1,4167.65,160.29
+2025-01-01,2025,1,vrbo_11183931ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,4,31,0,341.93,85.48
+2025-06-01,2025,6,vrbo_11183931ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,5,16,27,3,1586.32,99.14
+2025-05-01,2025,5,vrbo_11183933ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,6,17,28,3,2233.28,131.37
+2024-11-01,2024,11,vrbo_11221886ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,4,4,15,0,326.27,81.57
+2024-12-01,2024,12,vrbo_11221886ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,1,1,29,1,81.44,81.44
+2025-07-01,2025,7,vrbo_11221886ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,9,20,31,0,1596.5,79.83
+2025-04-01,2025,4,vrbo_11238511ha,,Aberdeenshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,9,18,12,1665.52,185.06
+2025-07-01,2025,7,vrbo_11241004ha,,Dumfries and Galloway,None,camping,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,3,8,31,0,1096.95,137.12
+2025-02-01,2025,2,vrbo_11241004ha,,Dumfries and Galloway,None,camping,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,27,1,0.0,0.0
+2025-06-01,2025,6,vrbo_11253399ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-05-01,2025,5,vrbo_11254288ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,11,25,3,3152.78,286.62
+2025-07-01,2025,7,vrbo_11258721ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-06-01,2025,6,vrbo_11258721ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,30,0,0.0,0.0
+2025-04-01,2025,4,vrbo_11266889ha,,Argyll and Bute,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,1,9,23,0,3834.44,426.05
+2025-01-01,2025,1,vrbo_11292133ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,3,7,0,218.42,72.81
+2025-06-01,2025,6,vrbo_11292133ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,8,8,0,1006.58,125.82
+2024-12-01,2024,12,vrbo_11292133ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,1,2,4,4,127.41,63.71
+2024-11-01,2024,11,vrbo_11295677ha,,Shetland Islands,None,unknown,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,30,0,0.0,0.0
+2025-02-01,2025,2,vrbo_11297859ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,25,0,0.0,0.0
+2025-07-01,2025,7,vrbo_11305159ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,7,27,31,0,8121.85,300.81
+2025-02-01,2025,2,vrbo_11318731ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,1 night,0,0,1,27,0.0,0.0
+2025-01-01,2025,1,vrbo_11327373ha,,South Lanarkshire,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,5,9,28,3,1618.08,179.79
+2024-10-01,2024,10,vrbo_11342963ha,,Scottish Borders,None,unknown,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,13,0,0.0,0.0
+2025-03-01,2025,3,vrbo_11342963ha,,Scottish Borders,None,unknown,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,vrbo_11342963ha,,Scottish Borders,None,unknown,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,28,0,0.0,0.0
+2024-11-01,2024,11,vrbo_11359946ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,10,0,0.0,0.0
+2025-06-01,2025,6,vrbo_11359946ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,4,14,18,0,5745.25,410.37
+2024-12-01,2024,12,vrbo_11359946ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,2,8,16,8,2808.57,351.07
+2025-07-01,2025,7,vrbo_11359946ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,4,18,20,1,8013.64,445.2
+2025-02-01,2025,2,vrbo_11364302ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,16,27,1,993.22,62.08
+2025-05-01,2025,5,vrbo_11364306ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,8,29,31,0,3179.71,109.65
+2024-10-01,2024,10,vrbo_11364306ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,9,0,0.0,0.0
+2025-06-01,2025,6,vrbo_11364309ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,7,18,25,5,2013.86,111.88
+2025-03-01,2025,3,vrbo_11364309ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,2,31,0,190.54,95.27
+2025-07-01,2025,7,vrbo_11364310ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,8,18,27,4,2335.46,129.75
+2025-05-01,2025,5,vrbo_11372812ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,3,11,30,1,1636.24,148.75
+2025-04-01,2025,4,vrbo_11372812ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,1,3,26,0,402.1,134.03
+2025-06-01,2025,6,vrbo_11374362ha,,Highland,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,8,19,28,2,2473.83,130.2
+2025-02-01,2025,2,vrbo_11374362ha,,Highland,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,2,5,28,0,309.29,61.86
+2024-11-01,2024,11,vrbo_11374362ha,,Highland,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,4,15,29,1,1103.53,73.57
+2024-11-01,2024,11,vrbo_11374967ha,,Falkirk,None,cabin,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,1,2,4,1,365.49,182.75
+2025-04-01,2025,4,vrbo_11374967ha,,Falkirk,None,cabin,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,12,25,30,0,4346.2,173.85
+2025-06-01,2025,6,vrbo_11376938ha,,Highland,None,villa,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,1,3,9,21,254.31,84.77
+2025-02-01,2025,2,vrbo_11376938ha,,Highland,None,villa,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,28,0,0.0,0.0
+2025-05-01,2025,5,vrbo_11401962ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,2,7,23,1,4980.55,711.51
+2025-03-01,2025,3,vrbo_11401962ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,26,2,0.0,0.0
+2024-10-01,2024,10,vrbo_11401962ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,12,0,0.0,0.0
+2025-05-01,2025,5,vrbo_11419427ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,5,14,31,0,6818.79,487.06
+2025-01-01,2025,1,vrbo_11419427ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,1,1,26,1,524.24,524.24
+2025-04-01,2025,4,vrbo_11431407ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,1,2,30,0,2409.57,1204.78
+2025-03-01,2025,3,vrbo_11431407ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-02-01,2025,2,vrbo_11431407ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,28,0,0.0,0.0
+2025-05-01,2025,5,vrbo_11431407ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,1,2,29,2,2255.72,1127.86
+2025-07-01,2025,7,vrbo_11434809ha,,Scottish Borders,None,cabin,Self-catering accommodation,entire,11 - 20 beds,11+ bedrooms,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,vrbo_11441300ha,,Midlothian,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,6,20,25,1,4788.02,239.4
+2024-11-01,2024,11,vrbo_11456333ha,,Highland,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,2,6,25,0,520.0,86.67
+2025-07-01,2025,7,vrbo_11474890ha,,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,1,2,5,0,526.24,263.12
+2025-02-01,2025,2,vrbo_11486669ha,,South Ayrshire,None,villa,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,2,8,28,0,1479.47,184.93
+2025-04-01,2025,4,vrbo_11529573ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,2,18,28,2,1632.02,90.67
+2025-07-01,2025,7,vrbo_11529573ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,1,13,31,0,1455.68,111.98
+2024-12-01,2024,12,vrbo_11530293ha,,Perth and Kinross,Cairngorms,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,26,0,0.0,0.0
+2025-07-01,2025,7,vrbo_11531184ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,11 - 20 beds,11+ bedrooms,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-02-01,2025,2,vrbo_11531184ha,,Aberdeenshire,None,house,Self-catering accommodation,entire,11 - 20 beds,11+ bedrooms,0,1 guest,1 night,0,0,28,0,0.0,0.0
+2025-02-01,2025,2,vrbo_11534936ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,3,9,16,0,2212.04,245.78
+2025-04-01,2025,4,vrbo_11534936ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,3,18,30,0,4134.49,229.69
+2024-10-01,2024,10,vrbo_11540473ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,1,0,0.0,0.0
+2024-12-01,2024,12,vrbo_11540474ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,2,8,31,0,544.0,68.0
+2025-02-01,2025,2,vrbo_11540474ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,4,19,28,0,635.31,33.44
+2025-04-01,2025,4,vrbo_11540474ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,4,14,30,0,1503.31,107.38
+2024-11-01,2024,11,vrbo_11540475ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,15,30,0,872.16,58.14
+2024-10-01,2024,10,vrbo_11540475ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,3,8,0,133.38,44.46
+2024-12-01,2024,12,vrbo_11540476ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,3,19,31,0,1076.94,56.68
+2025-01-01,2025,1,vrbo_11540476ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,31,31,0,1500.24,48.39
+2025-06-01,2025,6,vrbo_11540476ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,5,15,30,0,1438.52,95.9
+2025-02-01,2025,2,vrbo_11542979ha,,Highland,None,cabin,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,28,0,0.0,0.0
+2024-12-01,2024,12,vrbo_11545028ha,,Angus,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,18,0,0.0,0.0
+2024-10-01,2024,10,vrbo_11545028ha,,Angus,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,4,0,0.0,0.0
+2025-06-01,2025,6,vrbo_11545028ha,,Angus,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,4,17,27,3,7592.51,446.62
+2025-04-01,2025,4,vrbo_11564487ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,4,12,30,0,3106.39,258.87
+2025-03-01,2025,3,vrbo_11564487ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,1,5,31,0,1291.15,258.23
+2025-02-01,2025,2,vrbo_11564487ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,4,7,28,0,1859.71,265.67
+2025-07-01,2025,7,vrbo_11567909ha,,East Lothian,None,camping,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,0,14,0.0,0.0
+2025-04-01,2025,4,vrbo_11602134ha,,West Dunbartonshire,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-06-01,2024,6,vrbo_1877114ha,,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,3 nights,2,6,24,6,963.02,160.5
+2024-11-01,2024,11,vrbo_1877114ha,,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,3 nights,1,2,19,11,307.45,153.73
+2025-04-01,2025,4,vrbo_1935390ha,,Angus,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,3,24,30,0,2543.6,105.98
+2025-06-01,2025,6,vrbo_1935390ha,,Angus,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,1,7,7,23,722.39,103.2
+2023-12-01,2023,12,vrbo_1947696ha,,Angus,None,unique,Self-catering accommodation,entire,11 - 20 beds,11+ bedrooms,0,1 guest,2 nights,1,3,31,0,3301.98,1100.66
+2025-03-01,2025,3,vrbo_2252309,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-09-01,2024,9,vrbo_2252309,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,4,7,8,22,484.22,69.17
+2024-04-01,2024,4,vrbo_2252309,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-05-01,2024,5,vrbo_2389654,,City of Edinburgh,None,Hostel,Hostel,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,13,24,31,0,11981.95,499.25
+2024-11-01,2024,11,vrbo_2525308,,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,3 nights,0,0,0,30,0.0,0.0
+2024-08-01,2024,8,vrbo_2525308,,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,3 nights,0,0,0,31,0.0,0.0
+2023-12-01,2023,12,vrbo_2576245,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,2,4,8,23,316.13,79.03
+2024-02-01,2024,2,vrbo_2576245,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,29,0.0,0.0
+2024-04-01,2024,4,vrbo_2660171,,East Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,3,11,30,0,1658.41,150.76
+2024-09-01,2024,9,vrbo_2660171,,East Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,4,10,30,0,1488.23,148.82
+2023-11-01,2023,11,vrbo_2660171,,East Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,2,6,30,0,868.87,144.81
+2025-03-01,2025,3,vrbo_2660171,,East Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,1,5,30,1,769.89,153.98
+2024-10-01,2024,10,vrbo_2660171,,East Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,5,17,30,1,2648.52,155.8
+2025-01-01,2025,1,vrbo_2660171,,East Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,2,21,30,1,3488.82,166.13
+2025-05-01,2025,5,vrbo_2660171,,East Dunbartonshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,4,12,31,0,1912.31,159.36
+2024-10-01,2024,10,vrbo_3472588,,Fife,None,villa,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,16,0,0.0,0.0
+2025-03-01,2025,3,vrbo_3472588,,Fife,None,villa,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-06-01,2025,6,vrbo_3602320,,Argyll and Bute,None,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,3,20,30,0,4254.75,212.74
+2024-11-01,2024,11,vrbo_3935252,,East Ayrshire,None,house,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,1,2,26,4,1116.86,558.43
+2024-06-01,2024,6,vrbo_404739ha,,North Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,1,3,3,27,1328.87,442.96
+2023-11-01,2023,11,vrbo_404739ha,,North Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,0,0,30,0,0.0,0.0
+2024-08-01,2024,8,vrbo_404739ha,,North Ayrshire,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,2,14,14,17,6646.56,474.75
+2025-01-01,2025,1,vrbo_462878ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,7 - 13 nights,0,3,31,0,427.6,142.53
+2024-03-01,2024,3,vrbo_462878ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,7 - 13 nights,0,0,31,0,0.0,0.0
+2024-12-01,2024,12,vrbo_462954ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,7 - 13 nights,1,7,8,23,2886.06,412.29
+2024-07-01,2024,7,vrbo_462954ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,7 - 13 nights,5,20,20,11,8707.14,435.36
+2023-11-01,2023,11,vrbo_462954ha,,Scottish Borders,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,7 - 13 nights,1,3,6,24,1568.79,522.93
+2025-06-01,2025,6,vrbo_4768871ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,0,0,20,10,0.0,0.0
+2024-08-01,2024,8,vrbo_4768871ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,1,2,28,3,4881.31,2440.66
+2024-02-01,2024,2,vrbo_4768871ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,0,0,25,4,0.0,0.0
+2024-09-01,2024,9,vrbo_4768871ha,,South Ayrshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,0,0,8,22,0.0,0.0
+2025-03-01,2025,3,vrbo_4856570ha,,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-08-01,2024,8,vrbo_4856570ha,,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-12-01,2024,12,vrbo_4993582ha,,Argyll and Bute,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,1,2,12,19,2746.37,1373.18
+2024-12-01,2024,12,vrbo_569876,,East Lothian,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,0,0,27,4,0.0,0.0
+2024-07-01,2024,7,vrbo_569876,,East Lothian,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,vrbo_569876,,East Lothian,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,2,6,21,10,12769.05,2128.17
+2025-06-01,2025,6,vrbo_6099169ha,,Highland,Cairngorms,house,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,7 - 13 nights,1,3,26,4,530.74,176.91
+2025-02-01,2025,2,vrbo_6099169ha,,Highland,Cairngorms,house,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,7 - 13 nights,1,7,28,0,1300.12,185.73
+2025-05-01,2025,5,vrbo_6099169ha,,Highland,Cairngorms,house,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,7 - 13 nights,0,0,22,9,0.0,0.0
+2024-09-01,2024,9,vrbo_70026ha,,Stirling,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,7 - 13 nights,1,7,10,20,979.8,139.97
+2023-11-01,2023,11,vrbo_7716032ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,3,14,30,0,1875.3,133.95
+2025-04-01,2025,4,vrbo_7716032ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,3 nights,4,21,27,3,3260.99,155.29
+2023-12-01,2023,12,vrbo_7941007ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,2,4,7,24,316.13,79.03
+2024-10-01,2024,10,vrbo_7941007ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,5,5,26,383.29,76.66
+2024-09-01,2024,9,vrbo_7941007ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,7,13,14,16,1004.01,77.23
+2024-12-01,2024,12,vrbo_7944913ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-01-01,2025,1,vrbo_7944913ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-03-01,2024,3,vrbo_7944913ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,vrbo_7944913ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-09-01,2024,9,vrbo_8120503ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,1,6,29,1,2604.6,434.1
+2024-05-01,2024,5,vrbo_8120503ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,1,1,31,0,415.55,415.55
+2025-01-01,2025,1,vrbo_8120503ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,1,7,29,2,4195.01,599.29
+2025-07-01,2025,7,vrbo_8120503ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,3,15,31,0,8437.59,562.51
+2024-05-01,2024,5,vrbo_8124473ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,3,9,23,8,5455.8,606.2
+2024-12-01,2024,12,vrbo_8124473ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,2 nights,1,2,21,10,1344.19,672.1
+2024-05-01,2024,5,vrbo_8134640ha,,Angus,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,5,25,28,3,17017.57,680.7
+2023-12-01,2023,12,vrbo_8134640ha,,Angus,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,1,4,24,7,2093.23,523.31
+2024-11-01,2024,11,vrbo_8144076ha,,Argyll and Bute,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,4 - 6 nights,0,0,30,0,0.0,0.0
+2025-05-01,2025,5,vrbo_8172692ha,,Highland,Cairngorms,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,3,13,16,15,4477.78,344.44
+2025-03-01,2025,3,vrbo_8193785ha,,East Ayrshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,0,0,29,2,0.0,0.0
+2025-05-01,2025,5,vrbo_8193785ha,,East Ayrshire,None,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,3 nights,3,8,28,3,6411.04,801.38
+2025-04-01,2025,4,vrbo_8234683ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,1,3,26,4,294.72,98.24
+2025-02-01,2025,2,vrbo_8234683ha,,South Lanarkshire,None,B&B/Guesthouse,B&B/Guesthouse,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,1,21,26,2,1897.61,90.36
+2024-12-01,2024,12,vrbo_8246120ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,4 - 6 nights,0,0,31,0,0.0,0.0
+2024-02-01,2024,2,vrbo_8246120ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,4 - 6 nights,0,0,29,0,0.0,0.0
+2023-12-01,2023,12,vrbo_8246120ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,4 - 6 nights,1,5,29,2,592.74,118.55
+2024-03-01,2024,3,vrbo_8246120ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,4 - 6 nights,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,vrbo_8246120ha,,Perth and Kinross,None,unique,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,0,1 guest,4 - 6 nights,0,0,31,0,0.0,0.0
+2025-05-01,2025,5,vrbo_8247712ha,,Fife,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,31,0,0.0,0.0
+2025-04-01,2025,4,vrbo_8247712ha,,Fife,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,30,0,0.0,0.0
+2024-07-01,2024,7,vrbo_8247712ha,,Fife,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-12-01,2024,12,vrbo_8247712ha,,Fife,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,0,0,1,30,0.0,0.0
+2024-02-01,2024,2,vrbo_8519027ha,,Highland,Cairngorms,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,0,0,14,15,0.0,0.0
+2024-09-01,2024,9,vrbo_8519027ha,,Highland,Cairngorms,unique,Self-catering accommodation,entire,5 - 10 beds,5 - 10 bedrooms,0,1 guest,1 night,5,19,26,4,7323.9,385.47
+2024-10-01,2024,10,vrbo_8561279ha,1419076,Stirling,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,3 nights,2,12,31,0,2212.34,184.36
+2025-02-01,2025,2,vrbo_8569957ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,28,0.0,0.0
+2023-12-01,2023,12,vrbo_8569957ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-08-01,2024,8,vrbo_8569957ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-09-01,2024,9,vrbo_866457ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,5,17,30,0,4062.41,238.97
+2024-11-01,2024,11,vrbo_866457ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,4,9,28,2,2720.53,302.28
+2024-05-01,2024,5,vrbo_866457ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,5,11,29,2,2635.74,239.61
+2024-01-01,2024,1,vrbo_866457ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,1,7,31,0,1747.89,249.7
+2025-05-01,2025,5,vrbo_866457ha,,Fife,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,3,7,27,4,1636.24,233.75
+2023-11-01,2023,11,vrbo_8745341ha,,Dumfries and Galloway,None,unique,Self-catering accommodation,entire,1 bed,1 bedroom,0,1 guest,1 night,4,8,27,3,843.12,105.39
+2025-03-01,2025,3,vrbo_8824796ha,,Fife,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,6,13,31,0,1494.07,114.93
+2024-04-01,2024,4,vrbo_8824796ha,,Fife,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,2,8,30,0,887.15,110.89
+2025-06-01,2025,6,vrbo_8824796ha,,Fife,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,2 nights,7,15,26,4,1976.26,131.75
+2025-07-01,2025,7,vrbo_8879691ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,3,12,17,14,3738.51,311.54
+2024-03-01,2024,3,vrbo_8879691ha,,Highland,None,unique,Self-catering accommodation,entire,3 - 4 beds,3 - 4 bedrooms,0,1 guest,2 nights,2,5,27,4,1258.26,251.65
+2025-03-01,2025,3,vrbo_8905371ha,,West Dunbartonshire,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,4 - 6 nights,0,0,0,31,0.0,0.0
+2024-12-01,2024,12,vrbo_8905371ha,,West Dunbartonshire,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,4 - 6 nights,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,vrbo_8905371ha,,West Dunbartonshire,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,4 - 6 nights,0,0,0,30,0.0,0.0
+2024-11-01,2024,11,vrbo_8905371ha,,West Dunbartonshire,Loch Lomond and The Trossachs,unique,Self-catering accommodation,entire,3 - 4 beds,2 bedrooms,0,1 guest,4 - 6 nights,0,0,0,30,0.0,0.0
+2024-11-01,2024,11,vrbo_8996827ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-02-01,2024,2,vrbo_8996827ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,29,0.0,0.0
+2025-04-01,2025,4,vrbo_8996827ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2023-12-01,2023,12,vrbo_8996827ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-05-01,2025,5,vrbo_8996827ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,2,0.0,0.0
+2024-05-01,2024,5,vrbo_8996920ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-10-01,2024,10,vrbo_8996920ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-12-01,2024,12,vrbo_8996979ha,,Glasgow City,None,Hostel,Hostel,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-03-01,2025,3,vrbo_8996979ha,,Glasgow City,None,Hostel,Hostel,entire,3 - 4 beds,2 bedrooms,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-08-01,2024,8,vrbo_8997012ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-11-01,2024,11,vrbo_8997012ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-04-01,2025,4,vrbo_8997012ha,,Glasgow City,None,Hostel,Hostel,entire,1 bed,1 bedroom,0,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-08-01,2024,8,vrbo_9252377ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,15,20,24,7,1565.76,78.29
+2023-11-01,2023,11,vrbo_9252377ha,,Highland,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,0,1 guest,1 night,1,10,10,20,981.5,98.15
+2024-04-01,2024,4,airbnb_1000813942798539624,541574298,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-12-01,2024,12,airbnb_1002099821713743265,100736682,Dundee City,None,apartment,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,7 - 13 nights,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,airbnb_1002099821713743265,100736682,Dundee City,None,apartment,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,7 - 13 nights,0,0,30,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1002099821713743265,100736682,Dundee City,None,apartment,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,7 - 13 nights,0,0,31,0,0.0,0.0
+2023-12-01,2023,12,airbnb_1002898376324653822,541574298,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,5,25,31,0,968.15,38.73
+2024-06-01,2024,6,airbnb_1002898376324653822,541574298,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-02-01,2024,2,airbnb_1003683449259439432,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,29,29,0,1023.91,35.31
+2025-02-01,2025,2,airbnb_1003683449259439432,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,27,1,0.0,0.0
+2024-07-01,2024,7,airbnb_1003683449259439432,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,5,5,31,0,169.48,33.9
+2025-05-01,2025,5,airbnb_1003683449259439432,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,1,22,22,9,1076.77,48.94
+2024-05-01,2024,5,airbnb_1004918943569882321,572387235,City of Edinburgh,None,apartment,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,24,0,0.0,0.0
+2025-04-01,2025,4,airbnb_1007361326064545504,50717978,Angus,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,29,30,0,1318.21,45.46
+2024-04-01,2024,4,airbnb_1007361326064545504,50717978,Angus,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,4,8,30,0,366.85,45.86
+2024-06-01,2024,6,airbnb_1007361326064545504,50717978,Angus,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,11,28,30,0,1255.7,44.85
+2025-01-01,2025,1,airbnb_1010707220616554300,17840333,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,11,11,20,416.26,37.84
+2023-11-01,2023,11,airbnb_1010707220616554300,17840333,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,1,23,29,0,906.68,39.42
+2024-07-01,2024,7,airbnb_1010707220616554300,17840333,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,2,25,31,0,952.34,38.09
+2024-12-01,2024,12,airbnb_1010707220616554300,17840333,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,31,31,0,1145.38,36.95
+2025-06-01,2025,6,airbnb_10136782,42110928,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-07-01,2024,7,airbnb_10136782,42110928,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-01-01,2025,1,airbnb_10137008,42110928,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2023-11-01,2023,11,airbnb_10138940,52031595,Na h-Eileanan Siar,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,3,7,26,4,563.15,80.45
+2025-04-01,2025,4,airbnb_10138940,52031595,Na h-Eileanan Siar,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-06-01,2024,6,airbnb_10174257,10567197,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,30,0.0,0.0
+2025-02-01,2025,2,airbnb_10174257,10567197,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,28,0.0,0.0
+2025-07-01,2025,7,airbnb_10174257,10567197,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2025-06-01,2025,6,airbnb_10174257,10567197,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,30,0.0,0.0
+2024-10-01,2024,10,airbnb_10174257,10567197,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2025-03-01,2025,3,airbnb_10174257,10567197,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2023-12-01,2023,12,airbnb_10174257,10567197,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2024-12-01,2024,12,airbnb_1018272978195158576,105015782,Midlothian,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-03-01,2024,3,airbnb_1018272978195158576,105015782,Midlothian,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,28,31,0,849.58,30.34
+2024-01-01,2024,1,airbnb_1018689130263765703,401376742,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,14,0,0.0,0.0
+2025-02-01,2025,2,airbnb_1020371137243391053,486859827,Moray,None,Hotel,Hotel,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,1,0.0,0.0
+2024-04-01,2024,4,airbnb_1020371137243391053,486859827,Moray,None,Hotel,Hotel,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,30,0,0.0,0.0
+2025-01-01,2025,1,airbnb_1021376723971228319,275655756,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,3,17,31,0,643.32,37.84
+2025-04-01,2025,4,airbnb_1021376723971228319,275655756,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,1,30,30,0,1067.57,35.59
+2024-06-01,2024,6,airbnb_1021376723971228319,275655756,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,6,15,30,0,523.68,34.91
+2024-11-01,2024,11,airbnb_1021376729856607769,275655756,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,4,13,29,1,395.82,30.45
+2024-04-01,2024,4,airbnb_1023928360298591098,49259655,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,2,6,15,0,245.34,40.89
+2025-01-01,2025,1,airbnb_1023928360298591098,49259655,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1023928360298591098,49259655,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,1,0.0,0.0
+2025-01-01,2025,1,airbnb_1029658004465683446,272759889,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-02-01,2025,2,airbnb_1029658004465683446,272759889,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,28,0,0.0,0.0
+2024-05-01,2024,5,airbnb_1030183006662938871,547649362,Perth and Kinross,None,Hotel,Hotel,private,1 bed,11+ bedrooms,1,1 guest,1 night,2,3,31,0,240.62,80.21
+2024-08-01,2024,8,airbnb_1030183006662938871,547649362,Perth and Kinross,None,Hotel,Hotel,private,1 bed,11+ bedrooms,1,1 guest,1 night,3,6,31,0,465.48,77.58
+2024-10-01,2024,10,airbnb_1030183006662938871,547649362,Perth and Kinross,None,Hotel,Hotel,private,1 bed,11+ bedrooms,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2023-11-01,2023,11,airbnb_1037897,4121760,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,5,30,30,0,1177.8,39.26
+2024-02-01,2024,2,airbnb_1041165912347338325,549897378,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,10,0,0.0,0.0
+2024-03-01,2024,3,airbnb_1041165912347338325,549897378,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,1,28,31,0,1028.69,36.74
+2025-05-01,2025,5,airbnb_1041165912347338325,549897378,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,0,31,0.0,0.0
+2025-07-01,2025,7,airbnb_1041165912347338325,549897378,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,1,2,16,15,79.17,39.58
+2024-11-01,2024,11,airbnb_1041933995712520775,550061182,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2025-02-01,2025,2,airbnb_1041933995712520775,550061182,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,1 night,0,0,0,28,0.0,0.0
+2024-01-01,2024,1,airbnb_1041933995712520775,550061182,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,1 night,0,5,31,0,227.01,45.4
+2024-09-01,2024,9,airbnb_1043648917230339470,103358150,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,3 - 4 bedrooms,1,1 guest,14 - 27 nights,1,20,20,10,382.84,19.14
+2024-06-01,2024,6,airbnb_1043648917230339470,103358150,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,3 - 4 bedrooms,1,1 guest,14 - 27 nights,6,30,30,0,597.61,19.92
+2024-01-01,2024,1,airbnb_1043648917230339470,103358150,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,3 - 4 bedrooms,1,1 guest,14 - 27 nights,1,31,31,0,567.98,18.32
+2024-07-01,2024,7,airbnb_1043648917230339470,103358150,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,3 - 4 bedrooms,1,1 guest,14 - 27 nights,0,31,31,0,609.45,19.66
+2024-09-01,2024,9,airbnb_1044947832673673080,103358150,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,3 - 4 bedrooms,1,1 guest,14 - 27 nights,0,0,20,10,0.0,0.0
+2025-07-01,2025,7,airbnb_1045317925123296824,379334435,Inverclyde,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,4,31,0,237.49,59.37
+2024-04-01,2024,4,airbnb_1046473704943176749,475574055,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,4,14,30,0,406.01,29.0
+2024-10-01,2024,10,airbnb_1046473704943176749,475574055,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,23,30,1,642.55,27.94
+2025-04-01,2025,4,airbnb_1046473704943176749,475574055,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,2,20,30,0,653.77,32.69
+2024-06-01,2024,6,airbnb_1048109493787639310,66380757,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,30,0,0.0,0.0
+2025-01-01,2025,1,airbnb_1048109493787639310,66380757,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,4,0.0,0.0
+2024-02-01,2024,2,airbnb_1050016382859342730,126807576,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,3,29,29,0,1232.22,42.49
+2025-03-01,2025,3,airbnb_1050016382859342730,126807576,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,2,16,16,15,839.34,52.46
+2025-04-01,2025,4,airbnb_1050016382859342730,126807576,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,30,0.0,0.0
+2024-12-01,2024,12,airbnb_1050016382859342730,126807576,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1050016382859342730,126807576,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,26,5,0.0,0.0
+2024-06-01,2024,6,airbnb_1050531634764780434,551573132,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,30,0,0.0,0.0
+2024-07-01,2024,7,airbnb_1050531634764780434,551573132,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2025-05-01,2025,5,airbnb_1050531634764780434,551573132,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2025-06-01,2025,6,airbnb_1054832948109853825,532866009,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-12-01,2024,12,airbnb_1056591097737281280,4035144,Stirling,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-07-01,2025,7,airbnb_1057919545319091521,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,1,4,31,0,257.28,64.32
+2024-03-01,2024,3,airbnb_1057919545319091521,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,21,31,0,835.26,39.77
+2024-12-01,2024,12,airbnb_1057919545319091521,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1058805322244191805,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,18,26,31,0,1543.67,59.37
+2024-09-01,2024,9,airbnb_1058805322244191805,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,7,18,29,1,1117.57,62.09
+2024-05-01,2024,5,airbnb_1058805322244191805,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,4,31,0,355.84,88.96
+2024-09-01,2024,9,airbnb_1058892195163466948,115137424,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,5 - 10 beds,11+ bedrooms,1,1 guest,1 night,10,12,29,1,735.42,61.28
+2024-12-01,2024,12,airbnb_1062410741959611804,554699173,Aberdeen City,None,Hotel,Hotel,private,5 - 10 beds,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,airbnb_1062410741959611804,554699173,Aberdeen City,None,Hotel,Hotel,private,5 - 10 beds,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-08-01,2024,8,airbnb_1062410741959611804,554699173,Aberdeen City,None,Hotel,Hotel,private,5 - 10 beds,1 bedroom,1,1 guest,1 night,2,4,31,0,197.94,49.49
+2024-12-01,2024,12,airbnb_10626424,1024418,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,20,20,11,1118.57,55.93
+2024-06-01,2024,6,airbnb_10626424,1024418,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,10,26,27,3,1393.39,53.59
+2023-12-01,2023,12,airbnb_10626424,1024418,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,31,31,0,1588.56,51.24
+2024-09-01,2024,9,airbnb_10626424,1024418,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,14,29,29,1,1835.51,63.29
+2025-01-01,2025,1,airbnb_10626424,1024418,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,4,4,27,229.13,57.28
+2025-02-01,2025,2,airbnb_1063886278493907128,179639604,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,9,20,28,0,1381.43,69.07
+2024-09-01,2024,9,airbnb_1063886278493907128,179639604,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,11,28,30,0,1845.73,65.92
+2025-06-01,2025,6,airbnb_1063886278493907128,179639604,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,13,25,29,1,1746.84,69.87
+2024-07-01,2024,7,airbnb_1064748343539889783,237878578,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,4,9,31,0,469.56,52.17
+2024-12-01,2024,12,airbnb_1064748343539889783,237878578,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-08-01,2024,8,airbnb_1064748343539889783,237878578,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,18,31,0,890.74,49.49
+2024-01-01,2024,1,airbnb_1065308438660339684,555450044,Renfrewshire,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,14,16,0,558.4,39.89
+2024-09-01,2024,9,airbnb_1066068566446876564,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,26,28,2,1352.8,52.03
+2024-03-01,2024,3,airbnb_1066068566446876564,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,3,31,0,166.33,55.44
+2024-11-01,2024,11,airbnb_1066068566446876564,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,30,30,0,1619.81,53.99
+2024-11-01,2024,11,airbnb_1066536622193981680,78237130,South Lanarkshire,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,1 night,1,5,30,0,366.49,73.3
+2024-10-01,2024,10,airbnb_1066536622193981680,78237130,South Lanarkshire,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,1,0.0,0.0
+2024-02-01,2024,2,airbnb_1066828663699492705,398689553,Renfrewshire,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,1 night,0,0,29,0,0.0,0.0
+2024-09-01,2024,9,airbnb_1066828663699492705,398689553,Renfrewshire,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-12-01,2024,12,airbnb_1066828663699492705,398689553,Renfrewshire,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-02-01,2024,2,airbnb_10694996,55255514,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,29,0,0.0,0.0
+2025-04-01,2025,4,airbnb_1072362073486437280,534325322,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-04-01,2024,4,airbnb_1072362073486437280,534325322,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,30,0,0.0,0.0
+2025-05-01,2025,5,airbnb_1072473459348246590,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,5,13,31,0,649.26,49.94
+2025-02-01,2025,2,airbnb_1072473459348246590,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,28,0,0.0,0.0
+2024-09-01,2024,9,airbnb_1072473459348246590,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,1,9,30,0,301.88,33.54
+2024-11-01,2024,11,airbnb_1073731701403052391,471088355,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,26,26,4,1200.08,46.16
+2025-07-01,2025,7,airbnb_1077324455597128645,558681387,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,8,21,31,0,1329.45,63.31
+2024-09-01,2024,9,airbnb_1077324455597128645,558681387,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,10,30,30,0,1883.07,62.77
+2024-06-01,2024,6,airbnb_1077324455597128645,558681387,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,9,18,30,0,1164.4,64.69
+2024-04-01,2024,4,airbnb_1077324455597128645,558681387,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,5,21,22,0,1367.33,65.11
+2024-10-01,2024,10,airbnb_1079540619410477546,246967495,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-01-01,2025,1,airbnb_1080818292981054083,20946764,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-03-01,2025,3,airbnb_1080818292981054083,20946764,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-06-01,2025,6,airbnb_1080828604405137542,20946764,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,30,0.0,0.0
+2025-05-01,2025,5,airbnb_1080828604405137542,20946764,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,31,0.0,0.0
+2024-02-01,2024,2,airbnb_1080828604405137542,20946764,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,2,7,24,0,265.9,37.99
+2024-08-01,2024,8,airbnb_1081339804262288227,283743356,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,4,20,31,0,1867.56,93.38
+2025-03-01,2025,3,airbnb_1081339804262288227,283743356,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,2,14,31,0,820.39,58.6
+2025-02-01,2025,2,airbnb_1081339804262288227,283743356,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,2,6,27,1,368.67,61.45
+2025-06-01,2025,6,airbnb_1081339804262288227,283743356,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,7,20,30,0,1180.96,59.05
+2024-11-01,2024,11,airbnb_1084077876411266472,89808923,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,1,2,2,28,119.22,59.61
+2024-07-01,2024,7,airbnb_1084077876411266472,89808923,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,11,31,31,0,1758.07,56.71
+2024-05-01,2024,5,airbnb_1085897726780683857,520009588,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,6,9,31,0,285.11,31.68
+2025-01-01,2025,1,airbnb_1087349072255854399,258740887,South Lanarkshire,None,house,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,2,15,26,5,580.66,38.71
+2024-05-01,2024,5,airbnb_1087349072255854399,258740887,South Lanarkshire,None,house,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,8,28,28,3,826.1,29.5
+2024-12-01,2024,12,airbnb_1087349072255854399,258740887,South Lanarkshire,None,house,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,5,25,25,6,857.91,34.32
+2025-04-01,2025,4,airbnb_1087349072255854399,258740887,South Lanarkshire,None,house,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-11-01,2024,11,airbnb_1087349072255854399,258740887,South Lanarkshire,None,house,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,30,30,0,963.24,32.11
+2025-07-01,2025,7,airbnb_1087349072255854399,258740887,South Lanarkshire,None,house,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,5,31,31,0,858.99,27.71
+2024-11-01,2024,11,airbnb_1087562622546959520,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,3,10,30,0,209.43,20.94
+2024-03-01,2024,3,airbnb_1087562902745106869,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,1,4,5,0,79.62,19.9
+2024-08-01,2024,8,airbnb_1087562902745106869,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,10,28,31,0,554.33,19.8
+2025-01-01,2025,1,airbnb_1087591853708249714,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1087591853708249714,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,6,24,31,0,379.98,15.83
+2024-10-01,2024,10,airbnb_1087591853708249714,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,1,18,31,0,1437.62,79.87
+2024-04-01,2024,4,airbnb_1087591853708249714,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,7,24,29,1,997.44,41.56
+2024-10-01,2024,10,airbnb_1087616875629249839,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,5,21,31,0,365.37,17.4
+2025-06-01,2025,6,airbnb_1087616875629249839,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,9,22,29,1,368.07,16.73
+2025-05-01,2025,5,airbnb_1087622330297225137,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,7,24,30,1,479.46,19.98
+2025-07-01,2025,7,airbnb_1087622330297225137,547066835,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,10,25,31,0,494.77,19.79
+2025-03-01,2025,3,airbnb_1087641130116068270,547066835,Highland,None,villa,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,6,31,0,148.9,24.82
+2024-12-01,2024,12,airbnb_1087642566830780143,547066835,Highland,None,villa,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,2,31,0,154.98,77.49
+2024-10-01,2024,10,airbnb_1087666232718240914,547066835,Highland,None,unique,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,4,15,31,0,1763.89,117.59
+2024-06-01,2024,6,airbnb_1087666232718240914,547066835,Highland,None,unique,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,8,23,29,1,2849.07,123.87
+2025-02-01,2025,2,airbnb_1087666863243845920,547066835,Highland,None,unique,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,28,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1087690121712679834,547066835,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,5,21,31,0,1558.3,74.2
+2025-07-01,2025,7,airbnb_1087690121712679834,547066835,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,9,28,30,1,460.21,16.44
+2024-05-01,2024,5,airbnb_1087690121712679834,547066835,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,9,27,29,2,1597.77,59.18
+2024-08-01,2024,8,airbnb_1089804938913278145,68393868,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,8,28,31,0,1838.35,65.66
+2024-10-01,2024,10,airbnb_1092633667822670125,499335027,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,31,0,0.0,0.0
+2024-05-01,2024,5,airbnb_1092633667822670125,499335027,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,27,4,0.0,0.0
+2024-07-01,2024,7,airbnb_1093331633274342256,37758281,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,2,20,24,0,642.49,32.12
+2024-04-01,2024,4,airbnb_1093561798044955896,332534148,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,2,6,29,1,214.19,35.7
+2024-12-01,2024,12,airbnb_10937819,56710323,Aberdeenshire,None,unique,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,8,19,20,11,562.54,29.61
+2025-03-01,2025,3,airbnb_10937819,56710323,Aberdeenshire,None,unique,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,1,1,1,30,28.66,28.66
+2025-01-01,2025,1,airbnb_10937819,56710323,Aberdeenshire,None,unique,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,2,7,7,24,209.75,29.96
+2024-02-01,2024,2,airbnb_10937819,56710323,Aberdeenshire,None,unique,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,29,0.0,0.0
+2024-07-01,2024,7,airbnb_10939567,10888027,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2024-05-01,2024,5,airbnb_10939567,10888027,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2024-08-01,2024,8,airbnb_10939567,10888027,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2025-02-01,2025,2,airbnb_1096370477235637404,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,28,0,0.0,0.0
+2024-04-01,2024,4,airbnb_1096370477235637404,120188626,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,1,27,30,0,964.37,35.72
+2024-06-01,2024,6,airbnb_1098627069948289470,483306493,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,11,22,23,7,1727.36,78.52
+2024-08-01,2024,8,airbnb_1104316828130717222,44689805,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,6,30,31,0,1598.84,53.29
+2024-11-01,2024,11,airbnb_1104316828130717222,44689805,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,4,15,17,13,840.2,56.01
+2025-02-01,2025,2,airbnb_1104316828130717222,44689805,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,2,14,17,11,813.98,58.14
+2024-10-01,2024,10,airbnb_1104316828130717222,44689805,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,7,28,31,0,1505.47,53.77
+2024-07-01,2024,7,airbnb_1110079967745032060,541720279,Moray,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,2,30,31,0,1623.62,54.12
+2025-02-01,2025,2,airbnb_1110727613119809561,345441837,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,28,0,0.0,0.0
+2024-09-01,2024,9,airbnb_1110857388944996450,519945528,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,30,0,0.0,0.0
+2025-06-01,2025,6,airbnb_1112176957668052304,455313991,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,30,0,0.0,0.0
+2024-07-01,2024,7,airbnb_1112176957668052304,455313991,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,1,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1112317546607164177,455313991,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,30,1,0.0,0.0
+2025-04-01,2025,4,airbnb_1115844177813187548,567862860,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,19,11,0.0,0.0
+2024-08-01,2024,8,airbnb_1115844177813187548,567862860,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,12,17,27,4,1689.81,99.4
+2024-12-01,2024,12,airbnb_1116484755256473023,568025739,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,5,31,31,0,2852.55,92.02
+2025-04-01,2025,4,airbnb_1116484755256473023,568025739,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,5,18,18,12,1563.41,86.86
+2024-06-01,2024,6,airbnb_11165574,58082006,Fife,None,cabin,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,28+ nights,0,0,30,0,0.0,0.0
+2024-08-01,2024,8,airbnb_1117905228795834181,441034077,South Lanarkshire,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,1,31,31,0,1213.2,39.14
+2024-07-01,2024,7,airbnb_1117986747763144591,57217239,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,9,17,31,0,912.64,53.68
+2025-06-01,2025,6,airbnb_1121845580896728087,20770285,Dumfries and Galloway,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,30,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1123084160405093085,569535430,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1123084160405093085,569535430,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-03-01,2025,3,airbnb_1124427703681976649,166976265,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-10-01,2024,10,airbnb_1124427703681976649,166976265,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1126163477774226487,520333483,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,airbnb_1126163477774226487,520333483,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,3,23,31,0,677.71,29.47
+2025-02-01,2025,2,airbnb_1131909835147557383,490371461,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,1 night,0,0,0,28,0.0,0.0
+2025-02-01,2025,2,airbnb_1134686432012960299,17145557,North Ayrshire,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,27,1,0.0,0.0
+2025-04-01,2025,4,airbnb_1134686432012960299,17145557,North Ayrshire,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,1,7,29,1,355.86,50.84
+2025-06-01,2025,6,airbnb_1134686432012960299,17145557,North Ayrshire,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,2,5,28,2,246.03,49.21
+2024-11-01,2024,11,airbnb_1134686432012960299,17145557,North Ayrshire,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,29,1,0.0,0.0
+2023-12-01,2023,12,airbnb_11359977,59505430,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-06-01,2025,6,airbnb_11359977,59505430,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-06-01,2024,6,airbnb_11359977,59505430,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-04-01,2024,4,airbnb_11359977,59505430,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,6,24,0.0,0.0
+2024-01-01,2024,1,airbnb_11359977,59505430,Glasgow City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-02-01,2025,2,airbnb_1136529996803860719,337597733,Dundee City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,28,0,0.0,0.0
+2025-05-01,2025,5,airbnb_1136529996803860719,337597733,Dundee City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,3,0,0.0,0.0
+2024-05-01,2024,5,airbnb_1140025688149431490,105884831,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,4,25,31,0,1359.27,54.37
+2024-04-01,2024,4,airbnb_1140025688149431490,105884831,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,2,2,1,109.79,54.9
+2024-11-01,2024,11,airbnb_1143178291510776745,574309002,Midlothian,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-09-01,2024,9,airbnb_1145040424635141091,166740922,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-12-01,2024,12,airbnb_1145040424635141091,166740922,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-08-01,2024,8,airbnb_1145459426475722079,519945528,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,11,20,30,1,1985.69,99.28
+2024-10-01,2024,10,airbnb_1145459426475722079,519945528,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,airbnb_1148235781484333106,476800202,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,30,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1150721151857694011,565498966,Aberdeen City,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-01-01,2025,1,airbnb_1150721151857694011,565498966,Aberdeen City,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-02-01,2025,2,airbnb_1150832298483678633,576164241,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,28,0,0.0,0.0
+2025-02-01,2025,2,airbnb_1151653848914423466,75426251,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,28,0,0.0,0.0
+2025-05-01,2025,5,airbnb_1152789736201997129,576082582,City of Edinburgh,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-08-01,2024,8,airbnb_1152789736201997129,576082582,City of Edinburgh,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,1 night,4,30,31,0,5015.98,167.2
+2025-05-01,2025,5,airbnb_1153538386676236967,153613867,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,6,31,31,0,1703.06,54.94
+2024-08-01,2024,8,airbnb_1153538386676236967,153613867,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,17,28,31,0,1633.33,58.33
+2024-07-01,2024,7,airbnb_1155852911845771326,481236267,Highland,None,Hostel,Hostel,shared,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-06-01,2024,6,airbnb_1155852911845771326,481236267,Highland,None,Hostel,Hostel,shared,1 bed,1 bedroom,1,1 guest,1 night,0,0,22,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1155960699735828017,366318777,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,5,23,30,1,1411.84,61.38
+2024-08-01,2024,8,airbnb_1155960699735828017,366318777,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,16,28,31,0,1522.36,54.37
+2025-07-01,2025,7,airbnb_11609312,48322698,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-01-01,2025,1,airbnb_1162528936513020694,18978814,East Ayrshire,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,3,16,16,15,3749.14,234.32
+2024-10-01,2024,10,airbnb_1162528936513020694,18978814,East Ayrshire,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,2,5,5,26,1095.18,219.04
+2024-07-01,2024,7,airbnb_1163143716153995527,692387,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,9,27,31,0,1900.09,70.37
+2025-04-01,2025,4,airbnb_1163143716153995527,692387,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,8,23,29,1,1987.72,86.42
+2024-08-01,2024,8,airbnb_1165251174113357944,579772697,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,5,21,27,0,1252.01,59.62
+2023-12-01,2023,12,airbnb_11672758,49069741,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2025-02-01,2025,2,airbnb_11672758,49069741,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,0,28,0.0,0.0
+2025-06-01,2025,6,airbnb_11672758,49069741,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,0,30,0.0,0.0
+2025-03-01,2025,3,airbnb_11697221,60884177,Orkney Islands,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,6,22,31,0,1061.11,48.23
+2025-01-01,2025,1,airbnb_11697221,60884177,Orkney Islands,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,2,26,31,0,1310.33,50.4
+2025-02-01,2025,2,airbnb_1172534204035038460,439328471,Aberdeenshire,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,12,28,0,459.74,38.31
+2025-05-01,2025,5,airbnb_1172534204035038460,439328471,Aberdeenshire,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,8,31,0,287.67,35.96
+2024-11-01,2024,11,airbnb_11731233,8689557,City of Edinburgh,None,apartment,Self-catering accommodation,private,3 - 4 beds,2 bedrooms,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-07-01,2024,7,airbnb_1175376945628492946,272759889,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,10,18,31,0,445.9,24.77
+2024-08-01,2024,8,airbnb_1175376945628492946,272759889,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,5,22,31,0,550.34,25.02
+2025-07-01,2025,7,airbnb_1175540224458572686,346476737,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,3,31,31,0,1976.88,63.77
+2024-07-01,2024,7,airbnb_1175540224458572686,346476737,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,1,30,31,0,1918.48,63.95
+2024-12-01,2024,12,airbnb_1175540224458572686,346476737,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,1,4,7,24,271.78,67.94
+2025-05-01,2025,5,airbnb_1176268826336201671,272759889,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,airbnb_1176268826336201671,272759889,Aberdeen City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,2,11,30,0,299.47,27.22
+2024-08-01,2024,8,airbnb_1176689164454439827,582839322,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,10,22,31,0,1126.3,51.2
+2024-09-01,2024,9,airbnb_1176779942105693318,369624884,Glasgow City,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,0,0,30,0,0.0,0.0
+2025-01-01,2025,1,airbnb_1176779942105693318,369624884,Glasgow City,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-05-01,2025,5,airbnb_1176779942105693318,369624884,Glasgow City,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-04-01,2025,4,airbnb_1176779942105693318,369624884,Glasgow City,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,0,0,30,0,0.0,0.0
+2025-02-01,2025,2,airbnb_1176779942105693318,369624884,Glasgow City,None,apartment,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,0,0,28,0,0.0,0.0
+2024-12-01,2024,12,airbnb_1176868973500020978,582904303,East Lothian,None,house,Self-catering accommodation,private,3 - 4 beds,2 bedrooms,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1176868973500020978,582904303,East Lothian,None,house,Self-catering accommodation,private,3 - 4 beds,2 bedrooms,1,1 guest,1 night,3,16,31,0,1187.44,74.21
+2025-02-01,2025,2,airbnb_1178063073477616993,519945528,Glasgow City,None,house,Self-catering accommodation,entire,1 bed,1 bedroom,1,1 guest,3 nights,0,0,28,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1179452936176526631,272759889,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,4,18,31,0,478.97,26.61
+2025-05-01,2025,5,airbnb_1179452936176526631,272759889,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,2,9,31,0,233.73,25.97
+2024-12-01,2024,12,airbnb_1179452936176526631,272759889,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,30,1,0.0,0.0
+2025-01-01,2025,1,airbnb_11797916,62822896,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2024-10-01,2024,10,airbnb_1180515121054379870,576804512,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,4,31,0,204.69,51.17
+2025-05-01,2025,5,airbnb_1183069841241753467,517700681,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,0,31,31,0,1703.06,54.94
+2025-02-01,2025,2,airbnb_1183069841241753467,517700681,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,28,0,0.0,0.0
+2024-12-01,2024,12,airbnb_1186301786420027267,287308586,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,4,29,31,0,1193.94,41.17
+2025-02-01,2025,2,airbnb_1186301786420027267,287308586,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,17,28,0,705.59,41.51
+2024-09-01,2024,9,airbnb_1186774462471712691,37758281,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,21,30,0,672.03,32.0
+2025-07-01,2025,7,airbnb_1186774462471712691,37758281,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,0,31,0.0,0.0
+2024-08-01,2024,8,airbnb_1187001634980213357,99180378,Moray,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,2,14,31,0,1929.11,137.79
+2025-04-01,2025,4,airbnb_1187001634980213357,99180378,Moray,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-09-01,2024,9,airbnb_1187175714132694467,182207091,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,30,0.0,0.0
+2024-11-01,2024,11,airbnb_1187175714132694467,182207091,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,30,0.0,0.0
+2025-01-01,2025,1,airbnb_1188360581794048434,586070179,City of Edinburgh,None,Hostel,Hostel,shared,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1188360581794048434,586070179,City of Edinburgh,None,Hostel,Hostel,shared,3 - 4 beds,1 bedroom,1,1 guest,1 night,8,9,30,1,239.49,26.61
+2025-01-01,2025,1,airbnb_1188368117794726207,586070179,City of Edinburgh,None,Hostel,Hostel,shared,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,airbnb_1188368522887064797,586070179,City of Edinburgh,None,Hostel,Hostel,shared,3 - 4 beds,1 bedroom,1,1 guest,1 night,7,8,24,0,279.83,34.98
+2025-03-01,2025,3,airbnb_1188368522887064797,586070179,City of Edinburgh,None,Hostel,Hostel,shared,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-04-01,2025,4,airbnb_1188368522887064797,586070179,City of Edinburgh,None,Hostel,Hostel,shared,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2025-04-01,2025,4,airbnb_1189570733540928435,586070179,City of Edinburgh,None,Hostel,Hostel,private,1 bed,1 bedroom,1,1 guest,1 night,7,9,28,2,256.22,28.47
+2024-08-01,2024,8,airbnb_1189570733540928435,586070179,City of Edinburgh,None,Hostel,Hostel,private,1 bed,1 bedroom,1,1 guest,1 night,16,17,31,0,472.98,27.82
+2025-04-01,2025,4,airbnb_1189860601849203731,15864837,City of Edinburgh,None,villa,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-09-01,2024,9,airbnb_1189860601849203731,15864837,City of Edinburgh,None,villa,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-03-01,2025,3,airbnb_1189860601849203731,15864837,City of Edinburgh,None,villa,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-04-01,2025,4,airbnb_11904477,19082636,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-02-01,2024,2,airbnb_11904477,19082636,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,29,0,0.0,0.0
+2024-11-01,2024,11,airbnb_11904477,19082636,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-12-01,2024,12,airbnb_1190722134058054682,551517334,Aberdeen City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,4,29,31,0,1010.26,34.84
+2025-05-01,2025,5,airbnb_1190722134058054682,551517334,Aberdeen City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,airbnb_1193251654646767331,257768140,City of Edinburgh,None,Hotel,Hotel,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,30,0,0.0,0.0
+2025-01-01,2025,1,airbnb_1193972267695314381,49912876,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,airbnb_1194969563324028220,422481442,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,9,15,24,6,1240.84,82.72
+2024-08-01,2024,8,airbnb_1197254326616973228,588667469,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,12,27,31,0,1205.31,44.64
+2025-07-01,2025,7,airbnb_1197254326616973228,588667469,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,1,31,0,46.51,46.51
+2025-01-01,2025,1,airbnb_1197254326616973228,588667469,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,31,31,0,1575.32,50.82
+2025-03-01,2025,3,airbnb_11978266,27582091,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,3,11,31,0,284.37,25.85
+2023-12-01,2023,12,airbnb_11978266,27582091,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,2,21,31,0,531.1,25.29
+2024-06-01,2024,6,airbnb_11978266,27582091,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,9,26,30,0,654.6,25.18
+2025-07-01,2025,7,airbnb_1197952151676981865,579772697,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,31,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1197952151676981865,579772697,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,31,0,0.0,0.0
+2025-06-01,2025,6,airbnb_1197952151676981865,579772697,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,30,0,0.0,0.0
+2025-03-01,2025,3,airbnb_1200611734326311128,240131447,Fife,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,airbnb_1200611734326311128,240131447,Fife,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,4,10,0,401.69,100.42
+2025-03-01,2025,3,airbnb_1202349251228827027,573131737,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,15,31,31,0,2852.98,92.03
+2025-01-01,2025,1,airbnb_1202349251228827027,573131737,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,17,31,31,0,2983.06,96.23
+2025-07-01,2025,7,airbnb_1202357147849456707,573131737,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,18,31,31,0,2177.96,70.26
+2024-12-01,2024,12,airbnb_1204281704708428166,579772697,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-02-01,2025,2,airbnb_12044782,41528704,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,6,25,28,0,975.69,39.03
+2025-03-01,2025,3,airbnb_1204839576736666880,483585813,East Ayrshire,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,4,31,0,248.18,62.04
+2024-09-01,2024,9,airbnb_12120890,15784163,Highland,Cairngorms,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,11,20,30,0,1143.98,57.2
+2025-07-01,2025,7,airbnb_1214498038949491542,365424923,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,4,10,31,0,880.68,88.07
+2025-03-01,2025,3,airbnb_1214498038949491542,365424923,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,31,31,0,2852.98,92.03
+2024-08-01,2024,8,airbnb_1214577530168721620,282985159,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,1,9,9,0,546.67,60.74
+2025-07-01,2025,7,airbnb_1215883643913459877,526932348,Scottish Borders,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-05-01,2025,5,airbnb_1215883643913459877,526932348,Scottish Borders,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1215975222188761902,526932348,Scottish Borders,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,1,1 guest,1 night,8,15,31,0,1024.17,68.28
+2024-10-01,2024,10,airbnb_1229602859623550752,151025555,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,7,23,31,0,2135.52,92.85
+2025-07-01,2025,7,airbnb_1229602859623550752,151025555,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,16,25,31,0,2473.83,98.95
+2025-03-01,2025,3,airbnb_1229730886143258402,272759889,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-03-01,2025,3,airbnb_1231687719084366535,272759889,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-12-01,2024,12,airbnb_1231687719084366535,272759889,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2023-11-01,2023,11,airbnb_12317835,66351601,Highland,Cairngorms,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-12-01,2024,12,airbnb_1233475556412771406,284580320,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2025-04-01,2025,4,airbnb_1233475556412771406,284580320,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,30,0,0.0,0.0
+2025-01-01,2025,1,airbnb_12385633,21782787,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,4,27,0.0,0.0
+2024-08-01,2024,8,airbnb_12385633,21782787,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,28,3,0.0,0.0
+2025-06-01,2025,6,airbnb_12385633,21782787,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-11-01,2024,11,airbnb_12385633,21782787,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,28,2,0.0,0.0
+2024-04-01,2024,4,airbnb_12391447,66998906,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,6,24,0.0,0.0
+2024-11-01,2024,11,airbnb_12391447,66998906,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-04-01,2025,4,airbnb_12391447,66998906,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-08-01,2024,8,airbnb_12391447,66998906,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-01-01,2025,1,airbnb_12391447,66998906,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-01-01,2024,1,airbnb_12391447,66998906,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2023-12-01,2023,12,airbnb_12399080,67043065,Argyll and Bute,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2025-06-01,2025,6,airbnb_1242201473237256624,402508365,Glasgow City,None,apartment,Self-catering accommodation,shared,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-02-01,2024,2,airbnb_12431770,6104761,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,6,23,25,4,1038.66,45.16
+2025-06-01,2025,6,airbnb_12431770,6104761,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,10,11,11,19,324.77,29.52
+2025-04-01,2025,4,airbnb_1246193282322762986,100311134,East Lothian,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,28,2,0.0,0.0
+2025-04-01,2025,4,airbnb_1249794171520227037,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,10,20,0.0,0.0
+2025-02-01,2025,2,airbnb_1249794171520227037,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,28,0.0,0.0
+2024-09-01,2024,9,airbnb_1249794171520227037,553689893,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,3,5,0,136.86,45.62
+2025-06-01,2025,6,airbnb_12503414,67707760,Aberdeenshire,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,30,0,0.0,0.0
+2024-11-01,2024,11,airbnb_12590729,68294113,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-07-01,2025,7,airbnb_12590729,68294113,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-07-01,2024,7,airbnb_12590729,68294113,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-06-01,2025,6,airbnb_12590729,68294113,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-12-01,2024,12,airbnb_12644334,65044502,Highland,None,apartment,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,1,1 guest,14 - 27 nights,0,0,0,31,0.0,0.0
+2024-05-01,2024,5,airbnb_12644334,65044502,Highland,None,apartment,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,1,1 guest,14 - 27 nights,0,0,0,31,0.0,0.0
+2025-01-01,2025,1,airbnb_12644334,65044502,Highland,None,apartment,Self-catering accommodation,entire,3 - 4 beds,1 bedroom,1,1 guest,14 - 27 nights,0,0,0,31,0.0,0.0
+2025-02-01,2025,2,airbnb_12663364,67099158,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,28,0.0,0.0
+2024-09-01,2024,9,airbnb_12663364,67099158,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-03-01,2025,3,airbnb_12663364,67099158,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-07-01,2024,7,airbnb_12663364,67099158,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-01-01,2024,1,airbnb_12663364,67099158,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_12663364,67099158,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-01-01,2024,1,airbnb_12809479,69776346,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-06-01,2025,6,airbnb_12869735,39499043,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-01-01,2024,1,airbnb_12869735,39499043,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-02-01,2024,2,airbnb_12869735,39499043,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,29,0,0.0,0.0
+2024-04-01,2024,4,airbnb_12880262,70469068,North Ayrshire,None,house,Self-catering accommodation,entire,11 - 20 beds,5 - 10 bedrooms,1,1 guest,4 - 6 nights,0,0,6,24,0.0,0.0
+2025-04-01,2025,4,airbnb_12880262,70469068,North Ayrshire,None,house,Self-catering accommodation,entire,11 - 20 beds,5 - 10 bedrooms,1,1 guest,4 - 6 nights,0,0,0,30,0.0,0.0
+2024-07-01,2024,7,airbnb_12917191,20362390,City of Edinburgh,None,apartment,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_12945421,71111781,Aberdeen City,None,apartment,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-12-01,2024,12,airbnb_12945421,71111781,Aberdeen City,None,apartment,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-05-01,2024,5,airbnb_1295662,2035652,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,airbnb_1295662,2035652,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-12-01,2024,12,airbnb_12961481,63465032,Highland,None,Hostel,Hostel,shared,1 bed,1 bedroom,1,1 guest,1 night,5,6,26,5,190.56,31.76
+2025-01-01,2025,1,airbnb_12961481,63465032,Highland,None,Hostel,Hostel,shared,1 bed,1 bedroom,1,1 guest,1 night,2,24,31,0,689.72,28.74
+2023-12-01,2023,12,airbnb_12961481,63465032,Highland,None,Hostel,Hostel,shared,1 bed,1 bedroom,1,1 guest,1 night,5,5,31,0,157.27,31.45
+2024-11-01,2024,11,airbnb_12963003,71258719,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-10-01,2024,10,airbnb_12963003,71258719,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-08-01,2024,8,airbnb_12963003,71258719,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,airbnb_13079179,72539249,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-08-01,2024,8,airbnb_13079179,72539249,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-05-01,2025,5,airbnb_13079179,72539249,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-07-01,2025,7,airbnb_13104282,72825920,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,1,1,30,1,37.6,37.6
+2024-09-01,2024,9,airbnb_13104282,72825920,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,5,26,28,2,673.38,25.9
+2024-05-01,2024,5,airbnb_13104282,72825920,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,4,22,27,4,604.8,27.49
+2025-05-01,2025,5,airbnb_13104282,72825920,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,1,16,22,9,607.31,37.96
+2025-06-01,2025,6,airbnb_1319888,2485871,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2023-12-01,2023,12,airbnb_1319888,2485871,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-09-01,2024,9,airbnb_1319888,2485871,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,6,19,29,1,747.52,39.34
+2024-10-01,2024,10,airbnb_1319888,2485871,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,8,25,31,0,996.33,39.85
+2025-05-01,2025,5,airbnb_13221338,74174673,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,5,26,26,5,753.08,28.96
+2023-12-01,2023,12,airbnb_13221338,74174673,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,5,30,30,1,1051.92,35.06
+2024-05-01,2024,5,airbnb_13256720,3200264,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,2,24,31,0,1081.77,45.07
+2025-04-01,2025,4,airbnb_13256720,3200264,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,30,0,0.0,0.0
+2024-03-01,2024,3,airbnb_13256720,3200264,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,1,1,31,0,46.4,46.4
+2024-02-01,2024,2,airbnb_13256720,3200264,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,1,8,29,0,362.86,45.36
+2025-05-01,2025,5,airbnb_13256720,3200264,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,31,0,0.0,0.0
+2024-04-01,2024,4,airbnb_13256720,3200264,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,3,14,30,0,642.81,45.92
+2023-11-01,2023,11,airbnb_13288666,73511796,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,2,8,30,0,392.6,49.07
+2024-01-01,2024,1,airbnb_13288666,73511796,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,8,16,30,1,794.77,49.67
+2025-01-01,2025,1,airbnb_1328931352788420496,,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,2,8,15,0,373.15,46.64
+2025-06-01,2025,6,airbnb_13343080,4146696,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,5,18,30,0,2191.37,121.74
+2024-12-01,2024,12,airbnb_13343080,4146696,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,4,11,31,0,1340.23,121.84
+2023-12-01,2023,12,airbnb_13343080,4146696,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-02-01,2024,2,airbnb_13350277,10273399,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,28,29,0,1283.39,45.84
+2023-11-01,2023,11,airbnb_13350277,10273399,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,30,0,0.0,0.0
+2024-11-01,2024,11,airbnb_13350277,10273399,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,4,29,30,0,1314.77,45.34
+2024-08-01,2024,8,airbnb_13356546,75748499,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-07-01,2024,7,airbnb_13356546,75748499,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-12-01,2024,12,airbnb_13356546,75748499,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-03-01,2025,3,airbnb_13361252,67490463,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-05-01,2024,5,airbnb_13361252,67490463,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-02-01,2025,2,airbnb_13361252,67490463,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,28,0.0,0.0
+2025-05-01,2025,5,airbnb_13361252,67490463,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-07-01,2025,7,airbnb_1338346170818611724,,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,5,25,31,0,1700.74,68.03
+2024-09-01,2024,9,airbnb_13400481,41638717,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,23,7,0.0,0.0
+2024-08-01,2024,8,airbnb_13400481,41638717,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2024-10-01,2024,10,airbnb_13400481,41638717,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2024-08-01,2024,8,airbnb_13408534,76349208,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,3,0,0.0,0.0
+2024-01-01,2024,1,airbnb_13408534,76349208,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,airbnb_13408534,76349208,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2023-11-01,2023,11,airbnb_13428780,75748499,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-06-01,2024,6,airbnb_13428780,75748499,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-01-01,2025,1,airbnb_13428780,75748499,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-01-01,2024,1,airbnb_13475342,77112390,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2023-12-01,2023,12,airbnb_13475342,77112390,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2024-03-01,2024,3,airbnb_13475342,77112390,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_13478503,77154019,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,9,25,31,0,742.15,29.69
+2024-07-01,2024,7,airbnb_13478503,77154019,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,9,28,31,0,1137.89,40.64
+2023-12-01,2023,12,airbnb_13484391,77227663,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-03-01,2024,3,airbnb_13484391,77227663,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-04-01,2024,4,airbnb_13484391,77227663,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,6,24,0.0,0.0
+2024-08-01,2024,8,airbnb_13487926,77274418,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-09-01,2024,9,airbnb_13487926,77274418,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2023-12-01,2023,12,airbnb_13488769,72824640,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2024-03-01,2024,3,airbnb_13488769,72824640,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,airbnb_13488769,72824640,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,28,2,0.0,0.0
+2025-06-01,2025,6,airbnb_13488769,72824640,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,30,0.0,0.0
+2024-08-01,2024,8,airbnb_13489159,53081555,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,8,31,31,0,1416.53,45.69
+2025-01-01,2025,1,airbnb_13489159,53081555,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,15,31,31,0,1473.23,47.52
+2024-07-01,2024,7,airbnb_13489159,53081555,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,6,31,31,0,1201.9,38.77
+2024-06-01,2024,6,airbnb_13489159,53081555,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,6,16,16,14,684.5,42.78
+2024-11-01,2024,11,airbnb_13489159,53081555,City of Edinburgh,None,cabin,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,8,27,27,3,1205.1,44.63
+2025-03-01,2025,3,airbnb_13519598,73222008,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-02-01,2024,2,airbnb_13527153,77500283,Dundee City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,29,0,0.0,0.0
+2023-12-01,2023,12,airbnb_13527153,77500283,Dundee City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-11-01,2024,11,airbnb_13527153,77500283,Dundee City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-05-01,2024,5,airbnb_13527153,77500283,Dundee City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-01-01,2025,1,airbnb_13527153,77500283,Dundee City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,airbnb_13586705,78454741,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,10,27,27,3,1242.64,46.02
+2024-09-01,2024,9,airbnb_13592180,39923986,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-02-01,2024,2,airbnb_13592180,39923986,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,29,0,0.0,0.0
+2024-05-01,2024,5,airbnb_13592180,39923986,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2023-11-01,2023,11,airbnb_13592180,39923986,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-03-01,2024,3,airbnb_13592180,39923986,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-05-01,2025,5,airbnb_13636781,18793141,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,0,31,0.0,0.0
+2024-11-01,2024,11,airbnb_13636781,18793141,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,0,30,0.0,0.0
+2023-12-01,2023,12,airbnb_13636781,18793141,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,airbnb_13698199,53627915,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,2,15,31,0,571.41,38.09
+2024-03-01,2024,3,airbnb_13698199,53627915,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,1,1,31,0,38.53,38.53
+2024-02-01,2024,2,airbnb_13698199,53627915,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,29,0,0.0,0.0
+2023-11-01,2023,11,airbnb_13698199,53627915,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,3,29,30,0,1146.42,39.53
+2023-12-01,2023,12,airbnb_13698199,53627915,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,2,31,31,0,1200.51,38.73
+2024-05-01,2024,5,airbnb_13698199,53627915,Highland,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,6,14,31,0,546.15,39.01
+2024-04-01,2024,4,airbnb_13722716,80219145,Aberdeenshire,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,30,0,0.0,0.0
+2023-12-01,2023,12,airbnb_13722716,80219145,Aberdeenshire,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-06-01,2024,6,airbnb_13722716,80219145,Aberdeenshire,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,30,0,0.0,0.0
+2024-03-01,2024,3,airbnb_13894609,82311692,Glasgow City,None,unknown,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-06-01,2024,6,airbnb_13894609,82311692,Glasgow City,None,unknown,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-03-01,2025,3,airbnb_13894609,82311692,Glasgow City,None,unknown,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2025-04-01,2025,4,airbnb_13894609,82311692,Glasgow City,None,unknown,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-01-01,2025,1,airbnb_13894609,82311692,Glasgow City,None,unknown,Self-catering accommodation,private,3 - 4 beds,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,airbnb_13895021,56312403,Argyll and Bute,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,7,13,13,17,594.02,45.69
+2024-05-01,2024,5,airbnb_13895021,56312403,Argyll and Bute,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,6,10,10,21,446.41,44.64
+2024-03-01,2024,3,airbnb_13919152,7312483,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-12-01,2024,12,airbnb_13919152,7312483,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-05-01,2025,5,airbnb_13919152,7312483,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-01-01,2024,1,airbnb_13936180,72685717,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,airbnb_13936180,72685717,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-07-01,2025,7,airbnb_13936180,72685717,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,airbnb_13936180,72685717,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-05-01,2024,5,airbnb_13967358,21033306,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-03-01,2024,3,airbnb_13967358,21033306,City of Edinburgh,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2025-04-01,2025,4,airbnb_13973108,35622586,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,0,30,0.0,0.0
+2025-02-01,2025,2,airbnb_13973108,35622586,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,0,28,0.0,0.0
+2025-03-01,2025,3,airbnb_13973108,35622586,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,0,31,0.0,0.0
+2024-12-01,2024,12,airbnb_13973108,35622586,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,0,31,0.0,0.0
+2024-05-01,2024,5,airbnb_13973108,35622586,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,0,31,0.0,0.0
+2024-03-01,2024,3,airbnb_13973108,35622586,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,31,0,0.0,0.0
+2024-07-01,2024,7,airbnb_13973108,35622586,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,0,31,0.0,0.0
+2024-06-01,2024,6,airbnb_13993064,80523644,Falkirk,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,30,0.0,0.0
+2024-02-01,2024,2,airbnb_1401180,7492201,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,9,21,28,1,826.33,39.35
+2024-10-01,2024,10,airbnb_14046724,84212331,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-03-01,2024,3,airbnb_14046724,84212331,Glasgow City,None,unknown,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2023-12-01,2023,12,airbnb_14053968,81456528,Argyll and Bute,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-04-01,2025,4,airbnb_14053968,81456528,Argyll and Bute,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-05-01,2025,5,airbnb_14053968,81456528,Argyll and Bute,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-05-01,2024,5,airbnb_14053968,81456528,Argyll and Bute,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,6,11,20,299.19,49.87
+2024-04-01,2024,4,airbnb_14053968,81456528,Argyll and Bute,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,6,24,0.0,0.0
+2025-02-01,2025,2,airbnb_14053968,81456528,Argyll and Bute,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,28,0.0,0.0
+2025-04-01,2025,4,airbnb_14064587,48510258,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,4,28,28,2,1120.76,40.03
+2025-05-01,2025,5,airbnb_14064587,48510258,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,5,31,31,0,1421.17,45.84
+2025-03-01,2025,3,airbnb_14064741,67149322,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-03-01,2024,3,airbnb_14075694,18001159,City of Edinburgh,None,apartment,Self-catering accommodation,shared,1 bed,1 bedroom,1,1 guest,2 nights,0,0,31,0,0.0,0.0
+2024-01-01,2024,1,airbnb_14084737,7093978,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,31,0,0.0,0.0
+2024-04-01,2024,4,airbnb_14084737,7093978,City of Edinburgh,None,B&B/Guesthouse,B&B/Guesthouse,entire,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,30,0,0.0,0.0
+2023-11-01,2023,11,airbnb_14128536,51402312,Scottish Borders,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,30,0,0.0,0.0
+2025-06-01,2025,6,airbnb_14128536,51402312,Scottish Borders,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,0,30,0.0,0.0
+2025-02-01,2025,2,airbnb_14128536,51402312,Scottish Borders,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,28+ nights,0,0,0,28,0.0,0.0
+2024-05-01,2024,5,airbnb_14139750,85351089,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2025-02-01,2025,2,airbnb_14139750,85351089,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,28,0.0,0.0
+2024-03-01,2024,3,airbnb_14139750,85351089,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2025-02-01,2025,2,airbnb_14147559,45497903,City of Edinburgh,None,Serviced Apartment,Serviced Apartment,entire,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,23,5,0.0,0.0
+2024-04-01,2024,4,airbnb_14147559,45497903,City of Edinburgh,None,Serviced Apartment,Serviced Apartment,entire,1 bed,1 bedroom,1,1 guest,4 - 6 nights,2,21,30,0,1721.2,81.96
+2024-02-01,2024,2,airbnb_14147559,45497903,City of Edinburgh,None,Serviced Apartment,Serviced Apartment,entire,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,14,29,0,912.08,65.15
+2025-05-01,2025,5,airbnb_14147559,45497903,City of Edinburgh,None,Serviced Apartment,Serviced Apartment,entire,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,31,0.0,0.0
+2024-10-01,2024,10,airbnb_14201530,60885807,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-01-01,2024,1,airbnb_14201530,60885807,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,2 bedrooms,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-02-01,2024,2,airbnb_14210495,9422989,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,29,0,0.0,0.0
+2024-08-01,2024,8,airbnb_14210495,9422989,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,31,0.0,0.0
+2023-12-01,2023,12,airbnb_14210495,9422989,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2024-01-01,2024,1,airbnb_14210495,9422989,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2024-09-01,2024,9,airbnb_14236939,86578809,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,30,0.0,0.0
+2024-04-01,2024,4,airbnb_14250429,86739781,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,30,0.0,0.0
+2024-06-01,2024,6,airbnb_14250429,86739781,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,30,0.0,0.0
+2024-11-01,2024,11,airbnb_14250429,86739781,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,0,30,0.0,0.0
+2024-08-01,2024,8,airbnb_14277529,72825920,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,2,28,30,1,817.21,29.19
+2025-06-01,2025,6,airbnb_14287905,87210971,Fife,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,5,30,30,0,1033.34,34.44
+2024-10-01,2024,10,airbnb_14287905,87210971,Fife,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,3,25,31,0,661.23,26.45
+2024-04-01,2024,4,airbnb_14287905,87210971,Fife,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,7,23,30,0,722.51,31.41
+2024-06-01,2024,6,airbnb_14319325,37323961,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-04-01,2024,4,airbnb_14319325,37323961,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-05-01,2024,5,airbnb_14402036,61655236,Midlothian,None,townhouse,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,20,30,31,0,1506.25,50.21
+2024-04-01,2024,4,airbnb_14402036,61655236,Midlothian,None,townhouse,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,9,24,29,1,1207.64,50.32
+2023-12-01,2023,12,airbnb_14402036,61655236,Midlothian,None,townhouse,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,11,31,31,0,1502.41,48.46
+2025-04-01,2025,4,airbnb_14424149,15291055,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,2,30,30,0,1662.93,55.43
+2025-06-01,2025,6,airbnb_14424149,15291055,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,8,26,30,0,1407.31,54.13
+2024-03-01,2024,3,airbnb_14424149,15291055,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,2,9,30,1,474.21,52.69
+2025-05-01,2025,5,airbnb_14435642,44428235,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2023-11-01,2023,11,airbnb_14435642,44428235,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,30,0,0.0,0.0
+2024-10-01,2024,10,airbnb_14476428,89260047,Midlothian,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-05-01,2024,5,airbnb_14476428,89260047,Midlothian,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1455678,3503210,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,14 - 27 nights,0,0,0,31,0.0,0.0
+2025-01-01,2025,1,airbnb_1455678,3503210,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,14 - 27 nights,0,0,31,0,0.0,0.0
+2024-10-01,2024,10,airbnb_14633025,48428662,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,13,19,30,1,822.54,43.29
+2023-12-01,2023,12,airbnb_14633025,48428662,Aberdeen City,None,B&B/Guesthouse,B&B/Guesthouse,private,1 bed,1 bedroom,1,1 guest,1 night,7,13,17,14,565.08,43.47
+2024-11-01,2024,11,airbnb_1471134,7876276,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,30,0,0.0,0.0
+2024-03-01,2024,3,airbnb_1471134,7876276,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,7 - 13 nights,0,0,31,0,0.0,0.0
+2025-01-01,2025,1,airbnb_14824074,60983516,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-12-01,2024,12,airbnb_14824074,60983516,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,1,18,19,12,761.48,42.3
+2023-12-01,2023,12,airbnb_14958632,56872620,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2024-02-01,2024,2,airbnb_14958632,56872620,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,29,0,0.0,0.0
+2024-07-01,2024,7,airbnb_14984938,42931389,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,31,0.0,0.0
+2025-07-01,2025,7,airbnb_14984938,42931389,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,0,31,0.0,0.0
+2024-09-01,2024,9,airbnb_15004938,11033728,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,4,13,16,14,496.33,38.18
+2023-12-01,2023,12,airbnb_15015733,86691927,Glasgow City,None,villa,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,4,12,22,9,346.16,28.85
+2024-02-01,2024,2,airbnb_1520883,1432262,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,29,0,0.0,0.0
+2024-04-01,2024,4,airbnb_1520883,1432262,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,30,0.0,0.0
+2024-07-01,2024,7,airbnb_1520883,1432262,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-04-01,2024,4,airbnb_15307037,42622177,City of Edinburgh,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2024-09-01,2024,9,airbnb_15414147,98750704,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,30,0.0,0.0
+2025-05-01,2025,5,airbnb_15414147,98750704,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,31,0.0,0.0
+2024-05-01,2024,5,airbnb_15610848,100086740,East Renfrewshire,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,5,21,28,3,552.08,26.29
+2024-10-01,2024,10,airbnb_15610848,100086740,East Renfrewshire,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2023-11-01,2023,11,airbnb_1563509,7173955,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,30,0,0.0,0.0
+2024-08-01,2024,8,airbnb_1563509,7173955,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,16,20,25,6,2505.22,125.26
+2024-03-01,2024,3,airbnb_1563509,7173955,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,4,27,0.0,0.0
+2024-07-01,2024,7,airbnb_1563509,7173955,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,2,2,31,0,251.89,125.94
+2024-06-01,2024,6,airbnb_1563509,7173955,City of Edinburgh,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,4 - 6 nights,0,0,30,0,0.0,0.0
+2024-03-01,2024,3,airbnb_15644028,100912555,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,1,26,31,0,801.49,30.83
+2024-10-01,2024,10,airbnb_15644028,100912555,Highland,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,0,5,0.0,0.0
+2024-05-01,2024,5,airbnb_15671893,97100938,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2024-04-01,2024,4,airbnb_15671893,97100938,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,6,24,0.0,0.0
+2024-10-01,2024,10,airbnb_15771342,66160673,Glasgow City,None,camping,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,3,22,30,1,978.15,44.46
+2024-01-01,2024,1,airbnb_15771342,66160673,Glasgow City,None,camping,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,0,0,31,0,0.0,0.0
+2025-07-01,2025,7,airbnb_1583259,2614567,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2024-10-01,2024,10,airbnb_1583259,2614567,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,31,0,0.0,0.0
+2024-02-01,2024,2,airbnb_15881744,102984482,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,8,17,25,4,563.44,33.14
+2024-04-01,2024,4,airbnb_15881744,102984482,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,13,23,27,3,891.14,38.75
+2024-10-01,2024,10,airbnb_15881744,102984482,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,16,25,30,1,1091.61,43.66
+2025-06-01,2025,6,airbnb_15893741,102984482,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,10,26,28,2,1151.44,44.29
+2025-04-01,2025,4,airbnb_15893741,102984482,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,11,24,28,2,1057.11,44.05
+2024-08-01,2024,8,airbnb_15893741,102984482,Glasgow City,None,house,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,1 night,16,28,30,1,1323.64,47.27
+2024-08-01,2024,8,airbnb_15908212,2475424,Glasgow City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,2 nights,0,0,0,31,0.0,0.0
+2025-04-01,2025,4,airbnb_15928946,103362741,Aberdeen City,None,apartment,Self-catering accommodation,private,1 bed,1 bedroom,1,1 guest,3 nights,0,0,30,0,0.0,0.0
